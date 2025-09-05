@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "id": "actors",
+      "label": "Actors & Actresses",
+      "icon": "🎭",
+      "description": "Actors & Actresses in the entertainment industry",
+      "count": 130
+    },
+    {
+      "id": "musicians",
+      "label": "Musicians & Singers",
+      "icon": "🎤",
+      "description": "Musicians & Singers in the entertainment industry",
+      "count": 120
+    },
+    {
+      "id": "athletes",
+      "label": "Athletes & Sports",
+      "icon": "⚽",
+      "description": "Athletes & Sports in the entertainment industry",
+      "count": 120
+    },
+    {
+      "id": "entrepreneurs",
+      "label": "Entrepreneurs",
+      "icon": "💼",
+      "description": "Entrepreneurs in the entertainment industry",
+      "count": 120
+    },
+    {
+      "id": "internet-celebrities",
+      "label": "Internet Celebrities",
+      "icon": "📱",
+      "description": "Internet Celebrities in the entertainment industry",
+      "count": 120
+    },
+    {
+      "id": "scientists",
+      "label": "Scientists & Intellectuals",
+      "icon": "🔬",
+      "description": "Scientists & Intellectuals in the entertainment industry",
+      "count": 120
+    },
+    {
+      "id": "politicians",
+      "label": "Politicians & Public Figures",
+      "icon": "🏛️",
+      "description": "Politicians & Public Figures in the entertainment industry",
+      "count": 120
+    }
+  ],
+  "totalCelebrities": 850,
+  "lastUpdated": "2025-09-04"
+}

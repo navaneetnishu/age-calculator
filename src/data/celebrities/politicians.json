@@ -1,0 +1,2108 @@
+{
+  "category": "politicians",
+  "label": "Politicians & Public Figures",
+  "icon": "🏛️",
+  "celebrities": [
+    {
+      "id": "emery-roberts-1",
+      "name": "Emery Roberts",
+      "birthDate": "1969-02-13",
+      "category": "politicians",
+      "profession": "Influencer",
+      "nationality": "Mexican",
+      "bio": "Emery Roberts is a Mexican influencer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "emeryroberts"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-gomez-2",
+      "name": "Brooklyn Gomez",
+      "birthDate": "1995-04-15",
+      "category": "politicians",
+      "profession": "Influencer",
+      "nationality": "Polish",
+      "bio": "Brooklyn Gomez is a Polish influencer.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "brooklyngomez"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "owen-miller-3",
+      "name": "Owen Miller",
+      "birthDate": "1980-01-13",
+      "category": "politicians",
+      "profession": "Producer",
+      "nationality": "German",
+      "bio": "Owen Miller is a German producer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "owenmiller"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "reese-diaz-4",
+      "name": "Reese Diaz",
+      "birthDate": "1970-11-09",
+      "category": "politicians",
+      "profession": "Journalist",
+      "nationality": "Ukrainian",
+      "bio": "Reese Diaz is a Ukrainian journalist.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "reesediaz"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-rodriguez-5",
+      "name": "Brooklyn Rodriguez",
+      "birthDate": "1973-09-10",
+      "category": "politicians",
+      "profession": "Pianist",
+      "nationality": "Romanian",
+      "bio": "Brooklyn Rodriguez is a Romanian pianist.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "brooklynrodriguez"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "harper-johnson-6",
+      "name": "Harper Johnson",
+      "birthDate": "1956-03-16",
+      "category": "politicians",
+      "profession": "Comedian",
+      "nationality": "Chilean",
+      "bio": "Harper Johnson is a Chilean comedian.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "harperjohnson"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ethan-adams-7",
+      "name": "Ethan Adams",
+      "birthDate": "1973-10-06",
+      "category": "politicians",
+      "profession": "Guitarist",
+      "nationality": "South African",
+      "bio": "Ethan Adams is a South African guitarist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "ethanadams"
+      },
+      "achievements": [
+        "Guitarist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "river-morris-8",
+      "name": "River Morris",
+      "birthDate": "1955-02-16",
+      "category": "politicians",
+      "profession": "Doctor",
+      "nationality": "Colombian",
+      "bio": "River Morris is a Colombian doctor.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "rivermorris"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-white-9",
+      "name": "Drew White",
+      "birthDate": "1981-10-03",
+      "category": "politicians",
+      "profession": "Model",
+      "nationality": "Korean",
+      "bio": "Drew White is a Korean model.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "drewwhite"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "vera-king-10",
+      "name": "Vera King",
+      "birthDate": "2007-04-29",
+      "category": "politicians",
+      "profession": "Drummer",
+      "nationality": "Polish",
+      "bio": "Vera King is a Polish drummer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "veraking"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nina-hall-11",
+      "name": "Nina Hall",
+      "birthDate": "2003-03-20",
+      "category": "politicians",
+      "profession": "Activist",
+      "nationality": "Argentinian",
+      "bio": "Nina Hall is a Argentinian activist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "ninahall"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "reese-flores-12",
+      "name": "Reese Flores",
+      "birthDate": "1979-02-19",
+      "category": "politicians",
+      "profession": "CEO",
+      "nationality": "Chinese",
+      "bio": "Reese Flores is a Chinese ceo.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "reeseflores"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "iris-clark-13",
+      "name": "Iris Clark",
+      "birthDate": "1969-05-07",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Korean",
+      "bio": "Iris Clark is a Korean footballer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "irisclark"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-smith-14",
+      "name": "Paige Smith",
+      "birthDate": "2002-12-01",
+      "category": "politicians",
+      "profession": "Bassist",
+      "nationality": "German",
+      "bio": "Paige Smith is a German bassist.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "paigesmith"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-bailey-15",
+      "name": "Aiden Bailey",
+      "birthDate": "1977-11-13",
+      "category": "politicians",
+      "profession": "Choreographer",
+      "nationality": "Argentinian",
+      "bio": "Aiden Bailey is a Argentinian choreographer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "aidenbailey"
+      },
+      "achievements": [
+        "Choreographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jade-peterson-16",
+      "name": "Jade Peterson",
+      "birthDate": "1967-07-25",
+      "category": "politicians",
+      "profession": "Journalist",
+      "nationality": "Spanish",
+      "bio": "Jade Peterson is a Spanish journalist.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "jadepeterson"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "lily-hill-17",
+      "name": "Lily Hill",
+      "birthDate": "1956-04-30",
+      "category": "politicians",
+      "profession": "Activist",
+      "nationality": "Canadian",
+      "bio": "Lily Hill is a Canadian activist.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "lilyhill"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "felix-martinez-18",
+      "name": "Felix Martinez",
+      "birthDate": "1966-05-07",
+      "category": "politicians",
+      "profession": "Actress",
+      "nationality": "Turkish",
+      "bio": "Felix Martinez is a Turkish actress.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "felixmartinez"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "harper-nelson-19",
+      "name": "Harper Nelson",
+      "birthDate": "2010-01-13",
+      "category": "politicians",
+      "profession": "Writer",
+      "nationality": "German",
+      "bio": "Harper Nelson is a German writer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "harpernelson"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aaron-edwards-20",
+      "name": "Aaron Edwards",
+      "birthDate": "1958-07-28",
+      "category": "politicians",
+      "profession": "Boxer",
+      "nationality": "Scottish",
+      "bio": "Aaron Edwards is a Scottish boxer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "aaronedwards"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bailey-rodriguez-21",
+      "name": "Bailey Rodriguez",
+      "birthDate": "1979-10-16",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Australian",
+      "bio": "Bailey Rodriguez is a Australian footballer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "baileyrodriguez"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-bailey-22",
+      "name": "Taylor Bailey",
+      "birthDate": "1967-06-07",
+      "category": "politicians",
+      "profession": "Director",
+      "nationality": "Dutch",
+      "bio": "Taylor Bailey is a Dutch director.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "taylorbailey"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-kim-23",
+      "name": "Kai Kim",
+      "birthDate": "2002-04-25",
+      "category": "politicians",
+      "profession": "DJ",
+      "nationality": "Chilean",
+      "bio": "Kai Kim is a Chilean dj.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "kaikim"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-lopez-24",
+      "name": "Sage Lopez",
+      "birthDate": "1961-02-20",
+      "category": "politicians",
+      "profession": "Basketball Player",
+      "nationality": "Bulgarian",
+      "bio": "Sage Lopez is a Bulgarian basketball player.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "sagelopez"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zara-kim-25",
+      "name": "Zara Kim",
+      "birthDate": "1993-08-19",
+      "category": "politicians",
+      "profession": "Founder",
+      "nationality": "Peruvian",
+      "bio": "Zara Kim is a Peruvian founder.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "zarakim"
+      },
+      "achievements": [
+        "Founder of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-lee-26",
+      "name": "Paige Lee",
+      "birthDate": "1952-01-12",
+      "category": "politicians",
+      "profession": "Analyst",
+      "nationality": "Norwegian",
+      "bio": "Paige Lee is a Norwegian analyst.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "paigelee"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "mason-collins-27",
+      "name": "Mason Collins",
+      "birthDate": "1954-06-19",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "German",
+      "bio": "Mason Collins is a German politician.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "masoncollins"
+      },
+      "achievements": [
+        "Politician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dakota-kelly-28",
+      "name": "Dakota Kelly",
+      "birthDate": "1963-01-30",
+      "category": "politicians",
+      "profession": "Artist",
+      "nationality": "Welsh",
+      "bio": "Dakota Kelly is a Welsh artist.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "dakotakelly"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-morris-29",
+      "name": "Quinn Morris",
+      "birthDate": "1983-04-18",
+      "category": "politicians",
+      "profession": "Actor",
+      "nationality": "Swiss",
+      "bio": "Quinn Morris is a Swiss actor.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "quinnmorris"
+      },
+      "achievements": [
+        "Actor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-hall-30",
+      "name": "Sage Hall",
+      "birthDate": "1985-10-17",
+      "category": "politicians",
+      "profession": "Journalist",
+      "nationality": "Croatian",
+      "bio": "Sage Hall is a Croatian journalist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "sagehall"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aubrey-morales-31",
+      "name": "Aubrey Morales",
+      "birthDate": "1981-07-03",
+      "category": "politicians",
+      "profession": "Musician",
+      "nationality": "British",
+      "bio": "Aubrey Morales is a British musician.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "aubreymorales"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zara-cook-32",
+      "name": "Zara Cook",
+      "birthDate": "1976-02-27",
+      "category": "politicians",
+      "profession": "Bassist",
+      "nationality": "Canadian",
+      "bio": "Zara Cook is a Canadian bassist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "zaracook"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "fiona-roberts-33",
+      "name": "Fiona Roberts",
+      "birthDate": "1998-07-20",
+      "category": "politicians",
+      "profession": "Entrepreneur",
+      "nationality": "Austrian",
+      "bio": "Fiona Roberts is a Austrian entrepreneur.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "fionaroberts"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-brown-34",
+      "name": "Quinn Brown",
+      "birthDate": "1983-10-12",
+      "category": "politicians",
+      "profession": "Activist",
+      "nationality": "Belgian",
+      "bio": "Quinn Brown is a Belgian activist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "quinnbrown"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "finley-lee-35",
+      "name": "Finley Lee",
+      "birthDate": "1996-07-31",
+      "category": "politicians",
+      "profession": "Writer",
+      "nationality": "Peruvian",
+      "bio": "Finley Lee is a Peruvian writer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "finleylee"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xander-morgan-36",
+      "name": "Xander Morgan",
+      "birthDate": "1971-08-06",
+      "category": "politicians",
+      "profession": "Tennis Player",
+      "nationality": "Chilean",
+      "bio": "Xander Morgan is a Chilean tennis player.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "xandermorgan"
+      },
+      "achievements": [
+        "Tennis Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dakota-bailey-37",
+      "name": "Dakota Bailey",
+      "birthDate": "1988-05-28",
+      "category": "politicians",
+      "profession": "Activist",
+      "nationality": "Swedish",
+      "bio": "Dakota Bailey is a Swedish activist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "dakotabailey"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "julia-anderson-38",
+      "name": "Julia Anderson",
+      "birthDate": "2004-08-10",
+      "category": "politicians",
+      "profession": "Producer",
+      "nationality": "Irish",
+      "bio": "Julia Anderson is a Irish producer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "juliaanderson"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "adrian-miller-39",
+      "name": "Adrian Miller",
+      "birthDate": "1995-02-11",
+      "category": "politicians",
+      "profession": "Consultant",
+      "nationality": "Mexican",
+      "bio": "Adrian Miller is a Mexican consultant.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "adrianmiller"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "uma-clark-40",
+      "name": "Uma Clark",
+      "birthDate": "1971-09-20",
+      "category": "politicians",
+      "profession": "Swimmer",
+      "nationality": "Japanese",
+      "bio": "Uma Clark is a Japanese swimmer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "umaclark"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-torres-41",
+      "name": "Tatum Torres",
+      "birthDate": "1992-04-24",
+      "category": "politicians",
+      "profession": "Photographer",
+      "nationality": "New Zealander",
+      "bio": "Tatum Torres is a New Zealander photographer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "tatumtorres"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-morales-42",
+      "name": "Emery Morales",
+      "birthDate": "1951-06-26",
+      "category": "politicians",
+      "profession": "YouTuber",
+      "nationality": "Norwegian",
+      "bio": "Emery Morales is a Norwegian youtuber.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "emerymorales"
+      },
+      "achievements": [
+        "YouTuber of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-roberts-43",
+      "name": "Brooklyn Roberts",
+      "birthDate": "2002-03-15",
+      "category": "politicians",
+      "profession": "Founder",
+      "nationality": "Brazilian",
+      "bio": "Brooklyn Roberts is a Brazilian founder.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "brooklynroberts"
+      },
+      "achievements": [
+        "Founder of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-clark-44",
+      "name": "Tatum Clark",
+      "birthDate": "1984-11-11",
+      "category": "politicians",
+      "profession": "Podcaster",
+      "nationality": "Argentinian",
+      "bio": "Tatum Clark is a Argentinian podcaster.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "tatumclark"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ulysses-torres-45",
+      "name": "Ulysses Torres",
+      "birthDate": "1996-04-02",
+      "category": "politicians",
+      "profession": "Journalist",
+      "nationality": "Russian",
+      "bio": "Ulysses Torres is a Russian journalist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "ulyssestorres"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jordan-lewis-46",
+      "name": "Jordan Lewis",
+      "birthDate": "2005-06-16",
+      "category": "politicians",
+      "profession": "Choreographer",
+      "nationality": "American",
+      "bio": "Jordan Lewis is a American choreographer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "jordanlewis"
+      },
+      "achievements": [
+        "Choreographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "peyton-hernandez-47",
+      "name": "Peyton Hernandez",
+      "birthDate": "2007-10-13",
+      "category": "politicians",
+      "profession": "Boxer",
+      "nationality": "Bulgarian",
+      "bio": "Peyton Hernandez is a Bulgarian boxer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "peytonhernandez"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bella-murphy-48",
+      "name": "Bella Murphy",
+      "birthDate": "1960-01-28",
+      "category": "politicians",
+      "profession": "Comedian",
+      "nationality": "Hungarian",
+      "bio": "Bella Murphy is a Hungarian comedian.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "bellamurphy"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-robinson-49",
+      "name": "Charlie Robinson",
+      "birthDate": "1984-03-03",
+      "category": "politicians",
+      "profession": "Composer",
+      "nationality": "Romanian",
+      "bio": "Charlie Robinson is a Romanian composer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "charlierobinson"
+      },
+      "achievements": [
+        "Composer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gavin-cook-50",
+      "name": "Gavin Cook",
+      "birthDate": "1969-10-01",
+      "category": "politicians",
+      "profession": "Journalist",
+      "nationality": "Chilean",
+      "bio": "Gavin Cook is a Chilean journalist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "gavincook"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ari-kelly-51",
+      "name": "Ari Kelly",
+      "birthDate": "2007-03-18",
+      "category": "politicians",
+      "profession": "Artist",
+      "nationality": "Polish",
+      "bio": "Ari Kelly is a Polish artist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "arikelly"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "cameron-turner-52",
+      "name": "Cameron Turner",
+      "birthDate": "1957-06-11",
+      "category": "politicians",
+      "profession": "Author",
+      "nationality": "Canadian",
+      "bio": "Cameron Turner is a Canadian author.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "cameronturner"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-richardson-53",
+      "name": "Taylor Richardson",
+      "birthDate": "1962-02-25",
+      "category": "politicians",
+      "profession": "Author",
+      "nationality": "Indian",
+      "bio": "Taylor Richardson is a Indian author.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "taylorrichardson"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "alex-martin-54",
+      "name": "Alex Martin",
+      "birthDate": "1998-12-16",
+      "category": "politicians",
+      "profession": "Doctor",
+      "nationality": "Czech",
+      "bio": "Alex Martin is a Czech doctor.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "alexmartin"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ruby-ward-55",
+      "name": "Ruby Ward",
+      "birthDate": "1968-11-08",
+      "category": "politicians",
+      "profession": "Actress",
+      "nationality": "British",
+      "bio": "Ruby Ward is a British actress.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "rubyward"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tyler-gutierrez-56",
+      "name": "Tyler Gutierrez",
+      "birthDate": "1992-02-13",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Czech",
+      "bio": "Tyler Gutierrez is a Czech footballer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "tylergutierrez"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "blake-ramirez-57",
+      "name": "Blake Ramirez",
+      "birthDate": "1954-07-03",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Serbian",
+      "bio": "Blake Ramirez is a Serbian footballer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "blakeramirez"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-reyes-58",
+      "name": "Charlie Reyes",
+      "birthDate": "1976-05-14",
+      "category": "politicians",
+      "profession": "MMA Fighter",
+      "nationality": "Canadian",
+      "bio": "Charlie Reyes is a Canadian mma fighter.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "charliereyes"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sam-green-59",
+      "name": "Sam Green",
+      "birthDate": "1989-02-03",
+      "category": "politicians",
+      "profession": "Professor",
+      "nationality": "British",
+      "bio": "Sam Green is a British professor.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "samgreen"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jade-cook-60",
+      "name": "Jade Cook",
+      "birthDate": "1955-06-12",
+      "category": "politicians",
+      "profession": "DJ",
+      "nationality": "Czech",
+      "bio": "Jade Cook is a Czech dj.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "jadecook"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "parker-miller-61",
+      "name": "Parker Miller",
+      "birthDate": "1971-04-24",
+      "category": "politicians",
+      "profession": "Dancer",
+      "nationality": "Scottish",
+      "bio": "Parker Miller is a Scottish dancer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "parkermiller"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "iris-martin-62",
+      "name": "Iris Martin",
+      "birthDate": "1950-04-12",
+      "category": "politicians",
+      "profession": "Author",
+      "nationality": "Welsh",
+      "bio": "Iris Martin is a Welsh author.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "irismartin"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-morales-63",
+      "name": "Quinn Morales",
+      "birthDate": "1986-09-24",
+      "category": "politicians",
+      "profession": "Model",
+      "nationality": "Russian",
+      "bio": "Quinn Morales is a Russian model.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "quinnmorales"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "isaac-ortiz-64",
+      "name": "Isaac Ortiz",
+      "birthDate": "1964-08-04",
+      "category": "politicians",
+      "profession": "Consultant",
+      "nationality": "Mexican",
+      "bio": "Isaac Ortiz is a Mexican consultant.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "isaacortiz"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bailey-evans-65",
+      "name": "Bailey Evans",
+      "birthDate": "1991-04-02",
+      "category": "politicians",
+      "profession": "Journalist",
+      "nationality": "Hungarian",
+      "bio": "Bailey Evans is a Hungarian journalist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "baileyevans"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-ortiz-66",
+      "name": "Brooklyn Ortiz",
+      "birthDate": "1959-09-29",
+      "category": "politicians",
+      "profession": "Boxer",
+      "nationality": "Welsh",
+      "bio": "Brooklyn Ortiz is a Welsh boxer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "brooklynortiz"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "oliver-roberts-67",
+      "name": "Oliver Roberts",
+      "birthDate": "1983-06-23",
+      "category": "politicians",
+      "profession": "Teacher",
+      "nationality": "Italian",
+      "bio": "Oliver Roberts is a Italian teacher.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "oliverroberts"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-brown-68",
+      "name": "Brooklyn Brown",
+      "birthDate": "1962-05-13",
+      "category": "politicians",
+      "profession": "Professor",
+      "nationality": "Brazilian",
+      "bio": "Brooklyn Brown is a Brazilian professor.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "brooklynbrown"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-wilson-69",
+      "name": "Taylor Wilson",
+      "birthDate": "2010-05-15",
+      "category": "politicians",
+      "profession": "Pianist",
+      "nationality": "Australian",
+      "bio": "Taylor Wilson is a Australian pianist.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "taylorwilson"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "beth-adams-70",
+      "name": "Beth Adams",
+      "birthDate": "1988-02-10",
+      "category": "politicians",
+      "profession": "Athlete",
+      "nationality": "Argentinian",
+      "bio": "Beth Adams is a Argentinian athlete.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "bethadams"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-richardson-71",
+      "name": "Drew Richardson",
+      "birthDate": "1952-03-17",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Colombian",
+      "bio": "Drew Richardson is a Colombian footballer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "drewrichardson"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "carson-davis-72",
+      "name": "Carson Davis",
+      "birthDate": "1991-02-03",
+      "category": "politicians",
+      "profession": "Musician",
+      "nationality": "Peruvian",
+      "bio": "Carson Davis is a Peruvian musician.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "carsondavis"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "isaac-flores-73",
+      "name": "Isaac Flores",
+      "birthDate": "2003-12-18",
+      "category": "politicians",
+      "profession": "Photographer",
+      "nationality": "Brazilian",
+      "bio": "Isaac Flores is a Brazilian photographer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "isaacflores"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gabriel-allen-74",
+      "name": "Gabriel Allen",
+      "birthDate": "1991-03-09",
+      "category": "politicians",
+      "profession": "Boxer",
+      "nationality": "Portuguese",
+      "bio": "Gabriel Allen is a Portuguese boxer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "gabrielallen"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-baker-75",
+      "name": "Charlie Baker",
+      "birthDate": "1960-08-19",
+      "category": "politicians",
+      "profession": "CEO",
+      "nationality": "Indian",
+      "bio": "Charlie Baker is a Indian ceo.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "charliebaker"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-flores-76",
+      "name": "Tatum Flores",
+      "birthDate": "1974-06-20",
+      "category": "politicians",
+      "profession": "Comedian",
+      "nationality": "Irish",
+      "bio": "Tatum Flores is a Irish comedian.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "tatumflores"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "julia-anderson-77",
+      "name": "Julia Anderson",
+      "birthDate": "1953-09-07",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Hungarian",
+      "bio": "Julia Anderson is a Hungarian footballer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "juliaanderson"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-mitchell-78",
+      "name": "Skyler Mitchell",
+      "birthDate": "1960-02-22",
+      "category": "politicians",
+      "profession": "Investor",
+      "nationality": "Polish",
+      "bio": "Skyler Mitchell is a Polish investor.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "skylermitchell"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kendall-allen-79",
+      "name": "Kendall Allen",
+      "birthDate": "2002-09-23",
+      "category": "politicians",
+      "profession": "Pianist",
+      "nationality": "Bulgarian",
+      "bio": "Kendall Allen is a Bulgarian pianist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "kendallallen"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gavin-lopez-80",
+      "name": "Gavin Lopez",
+      "birthDate": "1978-04-01",
+      "category": "politicians",
+      "profession": "Doctor",
+      "nationality": "Austrian",
+      "bio": "Gavin Lopez is a Austrian doctor.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "gavinlopez"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "diana-robinson-81",
+      "name": "Diana Robinson",
+      "birthDate": "1990-08-03",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Serbian",
+      "bio": "Diana Robinson is a Serbian footballer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "dianarobinson"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-smith-82",
+      "name": "Tatum Smith",
+      "birthDate": "2000-02-07",
+      "category": "politicians",
+      "profession": "Comedian",
+      "nationality": "Russian",
+      "bio": "Tatum Smith is a Russian comedian.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "tatumsmith"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "harper-wilson-83",
+      "name": "Harper Wilson",
+      "birthDate": "1985-10-05",
+      "category": "politicians",
+      "profession": "Researcher",
+      "nationality": "Welsh",
+      "bio": "Harper Wilson is a Welsh researcher.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "harperwilson"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xander-nelson-84",
+      "name": "Xander Nelson",
+      "birthDate": "1985-06-27",
+      "category": "politicians",
+      "profession": "Basketball Player",
+      "nationality": "Swiss",
+      "bio": "Xander Nelson is a Swiss basketball player.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "xandernelson"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nina-phillips-85",
+      "name": "Nina Phillips",
+      "birthDate": "1976-01-28",
+      "category": "politicians",
+      "profession": "YouTuber",
+      "nationality": "Brazilian",
+      "bio": "Nina Phillips is a Brazilian youtuber.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "ninaphillips"
+      },
+      "achievements": [
+        "YouTuber of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "reese-peterson-86",
+      "name": "Reese Peterson",
+      "birthDate": "1986-06-17",
+      "category": "politicians",
+      "profession": "Director",
+      "nationality": "Colombian",
+      "bio": "Reese Peterson is a Colombian director.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "reesepeterson"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-sanchez-87",
+      "name": "Skyler Sanchez",
+      "birthDate": "1972-07-09",
+      "category": "politicians",
+      "profession": "Photographer",
+      "nationality": "British",
+      "bio": "Skyler Sanchez is a British photographer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "skylersanchez"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "cameron-cruz-88",
+      "name": "Cameron Cruz",
+      "birthDate": "1956-05-11",
+      "category": "politicians",
+      "profession": "Professor",
+      "nationality": "Czech",
+      "bio": "Cameron Cruz is a Czech professor.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "cameroncruz"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hayden-rodriguez-89",
+      "name": "Hayden Rodriguez",
+      "birthDate": "2004-11-26",
+      "category": "politicians",
+      "profession": "Boxer",
+      "nationality": "Portuguese",
+      "bio": "Hayden Rodriguez is a Portuguese boxer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "haydenrodriguez"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-howard-90",
+      "name": "Drew Howard",
+      "birthDate": "2007-06-16",
+      "category": "politicians",
+      "profession": "Drummer",
+      "nationality": "South African",
+      "bio": "Drew Howard is a South African drummer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "drewhoward"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "peyton-robinson-91",
+      "name": "Peyton Robinson",
+      "birthDate": "1953-10-02",
+      "category": "politicians",
+      "profession": "Founder",
+      "nationality": "Korean",
+      "bio": "Peyton Robinson is a Korean founder.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "peytonrobinson"
+      },
+      "achievements": [
+        "Founder of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sam-mitchell-92",
+      "name": "Sam Mitchell",
+      "birthDate": "2006-12-31",
+      "category": "politicians",
+      "profession": "Consultant",
+      "nationality": "Swedish",
+      "bio": "Sam Mitchell is a Swedish consultant.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "sammitchell"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-wilson-93",
+      "name": "Casey Wilson",
+      "birthDate": "2006-01-14",
+      "category": "politicians",
+      "profession": "Footballer",
+      "nationality": "Korean",
+      "bio": "Casey Wilson is a Korean footballer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "caseywilson"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "owen-kelly-94",
+      "name": "Owen Kelly",
+      "birthDate": "1952-08-08",
+      "category": "politicians",
+      "profession": "Rapper",
+      "nationality": "German",
+      "bio": "Owen Kelly is a German rapper.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "owenkelly"
+      },
+      "achievements": [
+        "Rapper of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-morris-95",
+      "name": "Paige Morris",
+      "birthDate": "1997-11-11",
+      "category": "politicians",
+      "profession": "Dancer",
+      "nationality": "Argentinian",
+      "bio": "Paige Morris is a Argentinian dancer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "paigemorris"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-kim-96",
+      "name": "Tatum Kim",
+      "birthDate": "1996-12-09",
+      "category": "politicians",
+      "profession": "Chef",
+      "nationality": "British",
+      "bio": "Tatum Kim is a British chef.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "tatumkim"
+      },
+      "achievements": [
+        "Chef of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-mitchell-97",
+      "name": "Tatum Mitchell",
+      "birthDate": "1987-07-18",
+      "category": "politicians",
+      "profession": "Author",
+      "nationality": "German",
+      "bio": "Tatum Mitchell is a German author.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "tatummitchell"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tara-johnson-98",
+      "name": "Tara Johnson",
+      "birthDate": "1997-10-20",
+      "category": "politicians",
+      "profession": "Journalist",
+      "nationality": "Spanish",
+      "bio": "Tara Johnson is a Spanish journalist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "tarajohnson"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "reese-carter-99",
+      "name": "Reese Carter",
+      "birthDate": "1963-01-02",
+      "category": "politicians",
+      "profession": "Writer",
+      "nationality": "French",
+      "bio": "Reese Carter is a French writer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "reesecarter"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gavin-miller-100",
+      "name": "Gavin Miller",
+      "birthDate": "1986-09-03",
+      "category": "politicians",
+      "profession": "Director",
+      "nationality": "Turkish",
+      "bio": "Gavin Miller is a Turkish director.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "gavinmiller"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jawaharlal-nehru-indian-1",
+      "name": "Jawaharlal Nehru",
+      "birthDate": "1889-11-14",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "First Prime Minister of India and freedom fighter.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "jawaharlalnehru",
+        "twitter": "jawaharlalnehru",
+        "youtube": "jawaharlalnehru"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "indira-gandhi-indian-2",
+      "name": "Indira Gandhi",
+      "birthDate": "1917-11-19",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "First female Prime Minister of India.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "indiragandhi",
+        "twitter": "indiragandhi",
+        "youtube": "indiragandhi"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "rajiv-gandhi-indian-3",
+      "name": "Rajiv Gandhi",
+      "birthDate": "1944-08-20",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Former Prime Minister of India and technology pioneer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "rajivgandhi",
+        "twitter": "rajivgandhi",
+        "youtube": "rajivgandhi"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "atal-bihari-vajpayee-indian-4",
+      "name": "Atal Bihari Vajpayee",
+      "birthDate": "1924-12-25",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Former Prime Minister of India and poet-politician.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "atalbiharivajpayee",
+        "twitter": "atalbiharivajpayee",
+        "youtube": "atalbiharivajpayee"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "manmohan-singh-indian-5",
+      "name": "Manmohan Singh",
+      "birthDate": "1932-09-26",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Former Prime Minister of India and economist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "manmohansingh",
+        "twitter": "manmohansingh",
+        "youtube": "manmohansingh"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "narendra-modi-indian-6",
+      "name": "Narendra Modi",
+      "birthDate": "1950-09-17",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Current Prime Minister of India and former Gujarat CM.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "narendramodi",
+        "twitter": "narendramodi",
+        "youtube": "narendramodi"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "rahul-gandhi-indian-7",
+      "name": "Rahul Gandhi",
+      "birthDate": "1970-06-19",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Indian politician and former Congress president.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "rahulgandhi",
+        "twitter": "rahulgandhi",
+        "youtube": "rahulgandhi"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sonia-gandhi-indian-8",
+      "name": "Sonia Gandhi",
+      "birthDate": "1946-12-09",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Former Congress president and political leader.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "soniagandhi",
+        "twitter": "soniagandhi",
+        "youtube": "soniagandhi"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "arvind-kejriwal-indian-9",
+      "name": "Arvind Kejriwal",
+      "birthDate": "1968-08-16",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of Delhi and anti-corruption activist.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "arvindkejriwal",
+        "twitter": "arvindkejriwal",
+        "youtube": "arvindkejriwal"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "mamata-banerjee-indian-10",
+      "name": "Mamata Banerjee",
+      "birthDate": "1955-01-05",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of West Bengal and TMC leader.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "mamatabanerjee",
+        "twitter": "mamatabanerjee",
+        "youtube": "mamatabanerjee"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "naveen-patnaik-indian-11",
+      "name": "Naveen Patnaik",
+      "birthDate": "1946-10-16",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of Odisha and BJD leader.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "naveenpatnaik",
+        "twitter": "naveenpatnaik",
+        "youtube": "naveenpatnaik"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "nitish-kumar-indian-12",
+      "name": "Nitish Kumar",
+      "birthDate": "1951-03-01",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of Bihar and JD(U) leader.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "nitishkumar",
+        "twitter": "nitishkumar",
+        "youtube": "nitishkumar"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "yogi-adityanath-indian-13",
+      "name": "Yogi Adityanath",
+      "birthDate": "1972-06-05",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of Uttar Pradesh and Hindu monk.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "yogiadityanath",
+        "twitter": "yogiadityanath",
+        "youtube": "yogiadityanath"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "pinarayi-vijayan-indian-14",
+      "name": "Pinarayi Vijayan",
+      "birthDate": "1945-05-24",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of Kerala and CPI(M) leader.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "pinarayivijayan",
+        "twitter": "pinarayivijayan",
+        "youtube": "pinarayivijayan"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "bhupesh-baghel-indian-15",
+      "name": "Bhupesh Baghel",
+      "birthDate": "1961-08-23",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of Chhattisgarh and Congress leader.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "bhupeshbaghel",
+        "twitter": "bhupeshbaghel",
+        "youtube": "bhupeshbaghel"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "ashok-gehlot-indian-16",
+      "name": "Ashok Gehlot",
+      "birthDate": "1951-05-03",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Chief Minister of Rajasthan and Congress leader.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "ashokgehlot",
+        "twitter": "ashokgehlot",
+        "youtube": "ashokgehlot"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "uddhav-thackeray-indian-17",
+      "name": "Uddhav Thackeray",
+      "birthDate": "1960-07-27",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Former Chief Minister of Maharashtra and Shiv Sena leader.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "uddhavthackeray",
+        "twitter": "uddhavthackeray",
+        "youtube": "uddhavthackeray"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "devendra-fadnavis-indian-18",
+      "name": "Devendra Fadnavis",
+      "birthDate": "1970-07-22",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Deputy Chief Minister of Maharashtra and BJP leader.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "devendrafadnavis",
+        "twitter": "devendrafadnavis",
+        "youtube": "devendrafadnavis"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "amit-shah-indian-19",
+      "name": "Amit Shah",
+      "birthDate": "1964-10-22",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Union Home Minister and BJP leader.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "amitshah",
+        "twitter": "amitshah",
+        "youtube": "amitshah"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "rajnath-singh-indian-20",
+      "name": "Rajnath Singh",
+      "birthDate": "1951-07-10",
+      "category": "politicians",
+      "profession": "Politician",
+      "nationality": "Indian",
+      "bio": "Union Defence Minister and BJP leader.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "rajnathsingh",
+        "twitter": "rajnathsingh",
+        "youtube": "rajnathsingh"
+      },
+      "achievements": [
+        "Politician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    }
+  ],
+  "count": 120
+}

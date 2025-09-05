@@ -6,7 +6,7 @@ export interface Celebrity {
   profession: string;
   nationality: string;
   bio: string;
-  imageUrl: string;
+  zodiacSign?: string;
   socialMedia?: {
     instagram?: string;
     twitter?: string;
@@ -33,6 +33,7 @@ export type CelebrityCategory =
   | 'streamer'
   | 'politician'
   | 'business'
+  | 'entrepreneur'
   | 'scientist'
   | 'writer'
   | 'director'

@@ -1,0 +1,2108 @@
+{
+  "category": "entrepreneurs",
+  "label": "Entrepreneurs",
+  "icon": "💼",
+  "celebrities": [
+    {
+      "id": "peyton-stewart-1",
+      "name": "Peyton Stewart",
+      "birthDate": "1991-08-28",
+      "category": "entrepreneurs",
+      "profession": "Musician",
+      "nationality": "Brazilian",
+      "bio": "Peyton Stewart is a Brazilian musician.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "peytonstewart"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yara-scott-2",
+      "name": "Yara Scott",
+      "birthDate": "1976-11-18",
+      "category": "entrepreneurs",
+      "profession": "Guitarist",
+      "nationality": "Russian",
+      "bio": "Yara Scott is a Russian guitarist.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "yarascott"
+      },
+      "achievements": [
+        "Guitarist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "owen-johnson-3",
+      "name": "Owen Johnson",
+      "birthDate": "1988-03-10",
+      "category": "entrepreneurs",
+      "profession": "Activist",
+      "nationality": "Portuguese",
+      "bio": "Owen Johnson is a Portuguese activist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "owenjohnson"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-jackson-4",
+      "name": "Charlie Jackson",
+      "birthDate": "1989-06-12",
+      "category": "entrepreneurs",
+      "profession": "Consultant",
+      "nationality": "Norwegian",
+      "bio": "Charlie Jackson is a Norwegian consultant.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "charliejackson"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "evelyn-nguyen-5",
+      "name": "Evelyn Nguyen",
+      "birthDate": "1970-05-12",
+      "category": "entrepreneurs",
+      "profession": "Analyst",
+      "nationality": "Swedish",
+      "bio": "Evelyn Nguyen is a Swedish analyst.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "evelynnguyen"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-murphy-6",
+      "name": "Drew Murphy",
+      "birthDate": "2002-08-08",
+      "category": "entrepreneurs",
+      "profession": "Podcaster",
+      "nationality": "Argentinian",
+      "bio": "Drew Murphy is a Argentinian podcaster.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "drewmurphy"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yara-phillips-7",
+      "name": "Yara Phillips",
+      "birthDate": "1953-01-25",
+      "category": "entrepreneurs",
+      "profession": "Activist",
+      "nationality": "Dutch",
+      "bio": "Yara Phillips is a Dutch activist.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "yaraphillips"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-walker-8",
+      "name": "Aiden Walker",
+      "birthDate": "1999-02-17",
+      "category": "entrepreneurs",
+      "profession": "Influencer",
+      "nationality": "Irish",
+      "bio": "Aiden Walker is a Irish influencer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "aidenwalker"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-phillips-9",
+      "name": "Drew Phillips",
+      "birthDate": "1961-10-03",
+      "category": "entrepreneurs",
+      "profession": "Influencer",
+      "nationality": "Argentinian",
+      "bio": "Drew Phillips is a Argentinian influencer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "drewphillips"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "river-gutierrez-10",
+      "name": "River Gutierrez",
+      "birthDate": "1991-04-14",
+      "category": "entrepreneurs",
+      "profession": "MMA Fighter",
+      "nationality": "French",
+      "bio": "River Gutierrez is a French mma fighter.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "rivergutierrez"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zara-walker-11",
+      "name": "Zara Walker",
+      "birthDate": "1964-01-14",
+      "category": "entrepreneurs",
+      "profession": "Politician",
+      "nationality": "Italian",
+      "bio": "Zara Walker is a Italian politician.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "zarawalker"
+      },
+      "achievements": [
+        "Politician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "owen-gonzalez-12",
+      "name": "Owen Gonzalez",
+      "birthDate": "2005-10-04",
+      "category": "entrepreneurs",
+      "profession": "Entrepreneur",
+      "nationality": "French",
+      "bio": "Owen Gonzalez is a French entrepreneur.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "owengonzalez"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-kim-13",
+      "name": "Yuki Kim",
+      "birthDate": "1959-10-18",
+      "category": "entrepreneurs",
+      "profession": "Founder",
+      "nationality": "Scottish",
+      "bio": "Yuki Kim is a Scottish founder.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "yukikim"
+      },
+      "achievements": [
+        "Founder of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "riley-rivera-14",
+      "name": "Riley Rivera",
+      "birthDate": "1966-03-06",
+      "category": "entrepreneurs",
+      "profession": "Designer",
+      "nationality": "German",
+      "bio": "Riley Rivera is a German designer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "rileyrivera"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ulysses-thompson-15",
+      "name": "Ulysses Thompson",
+      "birthDate": "1957-12-31",
+      "category": "entrepreneurs",
+      "profession": "Bassist",
+      "nationality": "South African",
+      "bio": "Ulysses Thompson is a South African bassist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "ulyssesthompson"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "diana-rivera-16",
+      "name": "Diana Rivera",
+      "birthDate": "1974-11-16",
+      "category": "entrepreneurs",
+      "profession": "Professor",
+      "nationality": "Mexican",
+      "bio": "Diana Rivera is a Mexican professor.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "dianarivera"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gabriel-nelson-17",
+      "name": "Gabriel Nelson",
+      "birthDate": "1973-07-09",
+      "category": "entrepreneurs",
+      "profession": "Tennis Player",
+      "nationality": "Italian",
+      "bio": "Gabriel Nelson is a Italian tennis player.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "gabrielnelson"
+      },
+      "achievements": [
+        "Tennis Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logan-mitchell-18",
+      "name": "Logan Mitchell",
+      "birthDate": "1967-11-16",
+      "category": "entrepreneurs",
+      "profession": "Designer",
+      "nationality": "French",
+      "bio": "Logan Mitchell is a French designer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "loganmitchell"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "wade-rodriguez-19",
+      "name": "Wade Rodriguez",
+      "birthDate": "1976-03-22",
+      "category": "entrepreneurs",
+      "profession": "Guitarist",
+      "nationality": "Ukrainian",
+      "bio": "Wade Rodriguez is a Ukrainian guitarist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "waderodriguez"
+      },
+      "achievements": [
+        "Guitarist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hannah-moore-20",
+      "name": "Hannah Moore",
+      "birthDate": "1964-10-30",
+      "category": "entrepreneurs",
+      "profession": "Podcaster",
+      "nationality": "New Zealander",
+      "bio": "Hannah Moore is a New Zealander podcaster.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "hannahmoore"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ellis-cook-21",
+      "name": "Ellis Cook",
+      "birthDate": "1959-04-27",
+      "category": "entrepreneurs",
+      "profession": "Drummer",
+      "nationality": "Croatian",
+      "bio": "Ellis Cook is a Croatian drummer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "elliscook"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-reed-22",
+      "name": "Yuki Reed",
+      "birthDate": "1991-04-13",
+      "category": "entrepreneurs",
+      "profession": "YouTuber",
+      "nationality": "Ukrainian",
+      "bio": "Yuki Reed is a Ukrainian youtuber.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "yukireed"
+      },
+      "achievements": [
+        "YouTuber of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xander-miller-23",
+      "name": "Xander Miller",
+      "birthDate": "1968-09-29",
+      "category": "entrepreneurs",
+      "profession": "Professor",
+      "nationality": "Argentinian",
+      "bio": "Xander Miller is a Argentinian professor.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "xandermiller"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nova-smith-24",
+      "name": "Nova Smith",
+      "birthDate": "1971-09-19",
+      "category": "entrepreneurs",
+      "profession": "Singer",
+      "nationality": "Venezuelan",
+      "bio": "Nova Smith is a Venezuelan singer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "novasmith"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bella-perez-25",
+      "name": "Bella Perez",
+      "birthDate": "1958-01-02",
+      "category": "entrepreneurs",
+      "profession": "Bassist",
+      "nationality": "Indian",
+      "bio": "Bella Perez is a Indian bassist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "bellaperez"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-baker-26",
+      "name": "Kai Baker",
+      "birthDate": "1959-07-01",
+      "category": "entrepreneurs",
+      "profession": "Runner",
+      "nationality": "Hungarian",
+      "bio": "Kai Baker is a Hungarian runner.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "kaibaker"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "carson-flores-27",
+      "name": "Carson Flores",
+      "birthDate": "2001-03-15",
+      "category": "entrepreneurs",
+      "profession": "Footballer",
+      "nationality": "Swiss",
+      "bio": "Carson Flores is a Swiss footballer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "carsonflores"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zoe-harris-28",
+      "name": "Zoe Harris",
+      "birthDate": "1976-07-09",
+      "category": "entrepreneurs",
+      "profession": "Musician",
+      "nationality": "Argentinian",
+      "bio": "Zoe Harris is a Argentinian musician.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "zoeharris"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ruby-johnson-29",
+      "name": "Ruby Johnson",
+      "birthDate": "1991-08-05",
+      "category": "entrepreneurs",
+      "profession": "Composer",
+      "nationality": "Indian",
+      "bio": "Ruby Johnson is a Indian composer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "rubyjohnson"
+      },
+      "achievements": [
+        "Composer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-jones-30",
+      "name": "Quinn Jones",
+      "birthDate": "2009-09-24",
+      "category": "entrepreneurs",
+      "profession": "Choreographer",
+      "nationality": "Norwegian",
+      "bio": "Quinn Jones is a Norwegian choreographer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "quinnjones"
+      },
+      "achievements": [
+        "Choreographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "adrian-johnson-31",
+      "name": "Adrian Johnson",
+      "birthDate": "1982-11-07",
+      "category": "entrepreneurs",
+      "profession": "Streamer",
+      "nationality": "Norwegian",
+      "bio": "Adrian Johnson is a Norwegian streamer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "adrianjohnson"
+      },
+      "achievements": [
+        "Streamer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zara-williams-32",
+      "name": "Zara Williams",
+      "birthDate": "2000-03-30",
+      "category": "entrepreneurs",
+      "profession": "Artist",
+      "nationality": "New Zealander",
+      "bio": "Zara Williams is a New Zealander artist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "zarawilliams"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tyler-hill-33",
+      "name": "Tyler Hill",
+      "birthDate": "1960-12-11",
+      "category": "entrepreneurs",
+      "profession": "Photographer",
+      "nationality": "Polish",
+      "bio": "Tyler Hill is a Polish photographer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "tylerhill"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "felix-collins-34",
+      "name": "Felix Collins",
+      "birthDate": "1959-12-21",
+      "category": "entrepreneurs",
+      "profession": "Analyst",
+      "nationality": "Spanish",
+      "bio": "Felix Collins is a Spanish analyst.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "felixcollins"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jade-evans-35",
+      "name": "Jade Evans",
+      "birthDate": "1990-09-25",
+      "category": "entrepreneurs",
+      "profession": "Actress",
+      "nationality": "Chinese",
+      "bio": "Jade Evans is a Chinese actress.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "jadeevans"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-walker-36",
+      "name": "Emery Walker",
+      "birthDate": "1980-11-14",
+      "category": "entrepreneurs",
+      "profession": "Pianist",
+      "nationality": "Chinese",
+      "bio": "Emery Walker is a Chinese pianist.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "emerywalker"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zoe-garcia-37",
+      "name": "Zoe Garcia",
+      "birthDate": "2008-09-11",
+      "category": "entrepreneurs",
+      "profession": "DJ",
+      "nationality": "Scottish",
+      "bio": "Zoe Garcia is a Scottish dj.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "zoegarcia"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ellis-miller-38",
+      "name": "Ellis Miller",
+      "birthDate": "1956-07-30",
+      "category": "entrepreneurs",
+      "profession": "Dancer",
+      "nationality": "Ukrainian",
+      "bio": "Ellis Miller is a Ukrainian dancer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "ellismiller"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nova-sanchez-39",
+      "name": "Nova Sanchez",
+      "birthDate": "1970-01-07",
+      "category": "entrepreneurs",
+      "profession": "Choreographer",
+      "nationality": "Welsh",
+      "bio": "Nova Sanchez is a Welsh choreographer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "novasanchez"
+      },
+      "achievements": [
+        "Choreographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "avery-thomas-40",
+      "name": "Avery Thomas",
+      "birthDate": "1950-10-06",
+      "category": "entrepreneurs",
+      "profession": "Choreographer",
+      "nationality": "Chinese",
+      "bio": "Avery Thomas is a Chinese choreographer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "averythomas"
+      },
+      "achievements": [
+        "Choreographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ethan-clark-41",
+      "name": "Ethan Clark",
+      "birthDate": "2005-03-16",
+      "category": "entrepreneurs",
+      "profession": "Drummer",
+      "nationality": "Welsh",
+      "bio": "Ethan Clark is a Welsh drummer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "ethanclark"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-johnson-42",
+      "name": "Taylor Johnson",
+      "birthDate": "1993-12-02",
+      "category": "entrepreneurs",
+      "profession": "Professor",
+      "nationality": "Belgian",
+      "bio": "Taylor Johnson is a Belgian professor.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "taylorjohnson"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-taylor-43",
+      "name": "Kai Taylor",
+      "birthDate": "1973-06-19",
+      "category": "entrepreneurs",
+      "profession": "Analyst",
+      "nationality": "Japanese",
+      "bio": "Kai Taylor is a Japanese analyst.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "kaitaylor"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dakota-rogers-44",
+      "name": "Dakota Rogers",
+      "birthDate": "1954-03-10",
+      "category": "entrepreneurs",
+      "profession": "Director",
+      "nationality": "Japanese",
+      "bio": "Dakota Rogers is a Japanese director.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "dakotarogers"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "finley-perez-45",
+      "name": "Finley Perez",
+      "birthDate": "2005-04-14",
+      "category": "entrepreneurs",
+      "profession": "Photographer",
+      "nationality": "Mexican",
+      "bio": "Finley Perez is a Mexican photographer.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "finleyperez"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-rogers-46",
+      "name": "Paige Rogers",
+      "birthDate": "1982-12-11",
+      "category": "entrepreneurs",
+      "profession": "Actress",
+      "nationality": "Austrian",
+      "bio": "Paige Rogers is a Austrian actress.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "paigerogers"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "peyton-young-47",
+      "name": "Peyton Young",
+      "birthDate": "2008-01-30",
+      "category": "entrepreneurs",
+      "profession": "Basketball Player",
+      "nationality": "Australian",
+      "bio": "Peyton Young is a Australian basketball player.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "peytonyoung"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ellis-nelson-48",
+      "name": "Ellis Nelson",
+      "birthDate": "1998-07-28",
+      "category": "entrepreneurs",
+      "profession": "Athlete",
+      "nationality": "Romanian",
+      "bio": "Ellis Nelson is a Romanian athlete.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "ellisnelson"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "blake-morris-49",
+      "name": "Blake Morris",
+      "birthDate": "2005-09-21",
+      "category": "entrepreneurs",
+      "profession": "CEO",
+      "nationality": "American",
+      "bio": "Blake Morris is a American ceo.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "blakemorris"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-adams-50",
+      "name": "Sage Adams",
+      "birthDate": "1963-07-19",
+      "category": "entrepreneurs",
+      "profession": "Basketball Player",
+      "nationality": "Venezuelan",
+      "bio": "Sage Adams is a Venezuelan basketball player.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "sageadams"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "max-anderson-51",
+      "name": "Max Anderson",
+      "birthDate": "2001-10-17",
+      "category": "entrepreneurs",
+      "profession": "Actress",
+      "nationality": "Japanese",
+      "bio": "Max Anderson is a Japanese actress.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "maxanderson"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "caleb-robinson-52",
+      "name": "Caleb Robinson",
+      "birthDate": "1961-11-26",
+      "category": "entrepreneurs",
+      "profession": "Chef",
+      "nationality": "Bulgarian",
+      "bio": "Caleb Robinson is a Bulgarian chef.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "calebrobinson"
+      },
+      "achievements": [
+        "Chef of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kendall-martinez-53",
+      "name": "Kendall Martinez",
+      "birthDate": "1998-08-21",
+      "category": "entrepreneurs",
+      "profession": "Singer",
+      "nationality": "Polish",
+      "bio": "Kendall Martinez is a Polish singer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "kendallmartinez"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zara-richardson-54",
+      "name": "Zara Richardson",
+      "birthDate": "1974-10-29",
+      "category": "entrepreneurs",
+      "profession": "Chef",
+      "nationality": "Venezuelan",
+      "bio": "Zara Richardson is a Venezuelan chef.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "zararichardson"
+      },
+      "achievements": [
+        "Chef of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "avery-roberts-55",
+      "name": "Avery Roberts",
+      "birthDate": "2010-08-29",
+      "category": "entrepreneurs",
+      "profession": "Entrepreneur",
+      "nationality": "Welsh",
+      "bio": "Avery Roberts is a Welsh entrepreneur.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "averyroberts"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zara-gonzalez-56",
+      "name": "Zara Gonzalez",
+      "birthDate": "1995-04-28",
+      "category": "entrepreneurs",
+      "profession": "Consultant",
+      "nationality": "Austrian",
+      "bio": "Zara Gonzalez is a Austrian consultant.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "zaragonzalez"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "felix-wilson-57",
+      "name": "Felix Wilson",
+      "birthDate": "2006-09-28",
+      "category": "entrepreneurs",
+      "profession": "Analyst",
+      "nationality": "South African",
+      "bio": "Felix Wilson is a South African analyst.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "felixwilson"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-thomas-58",
+      "name": "Drew Thomas",
+      "birthDate": "1987-12-17",
+      "category": "entrepreneurs",
+      "profession": "Professor",
+      "nationality": "Irish",
+      "bio": "Drew Thomas is a Irish professor.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "drewthomas"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-smith-59",
+      "name": "Emery Smith",
+      "birthDate": "1990-09-28",
+      "category": "entrepreneurs",
+      "profession": "Researcher",
+      "nationality": "Korean",
+      "bio": "Emery Smith is a Korean researcher.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "emerysmith"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-ortiz-60",
+      "name": "Quinn Ortiz",
+      "birthDate": "1955-03-18",
+      "category": "entrepreneurs",
+      "profession": "Consultant",
+      "nationality": "Irish",
+      "bio": "Quinn Ortiz is a Irish consultant.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "quinnortiz"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-rodriguez-61",
+      "name": "Quinn Rodriguez",
+      "birthDate": "1962-09-14",
+      "category": "entrepreneurs",
+      "profession": "Swimmer",
+      "nationality": "Belgian",
+      "bio": "Quinn Rodriguez is a Belgian swimmer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "quinnrodriguez"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "max-gonzalez-62",
+      "name": "Max Gonzalez",
+      "birthDate": "1978-06-24",
+      "category": "entrepreneurs",
+      "profession": "Teacher",
+      "nationality": "Chinese",
+      "bio": "Max Gonzalez is a Chinese teacher.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "maxgonzalez"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dana-ortiz-63",
+      "name": "Dana Ortiz",
+      "birthDate": "1967-05-12",
+      "category": "entrepreneurs",
+      "profession": "Activist",
+      "nationality": "German",
+      "bio": "Dana Ortiz is a German activist.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "danaortiz"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-white-64",
+      "name": "Kai White",
+      "birthDate": "1994-02-28",
+      "category": "entrepreneurs",
+      "profession": "CEO",
+      "nationality": "Brazilian",
+      "bio": "Kai White is a Brazilian ceo.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "kaiwhite"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-peterson-65",
+      "name": "Sage Peterson",
+      "birthDate": "1982-02-14",
+      "category": "entrepreneurs",
+      "profession": "Boxer",
+      "nationality": "Japanese",
+      "bio": "Sage Peterson is a Japanese boxer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "sagepeterson"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dakota-stewart-66",
+      "name": "Dakota Stewart",
+      "birthDate": "2005-06-23",
+      "category": "entrepreneurs",
+      "profession": "Basketball Player",
+      "nationality": "Japanese",
+      "bio": "Dakota Stewart is a Japanese basketball player.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "dakotastewart"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "river-anderson-67",
+      "name": "River Anderson",
+      "birthDate": "1994-02-24",
+      "category": "entrepreneurs",
+      "profession": "Pianist",
+      "nationality": "Portuguese",
+      "bio": "River Anderson is a Portuguese pianist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "riveranderson"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "finley-ward-68",
+      "name": "Finley Ward",
+      "birthDate": "1957-10-27",
+      "category": "entrepreneurs",
+      "profession": "CEO",
+      "nationality": "Hungarian",
+      "bio": "Finley Ward is a Hungarian ceo.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "finleyward"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bailey-richardson-69",
+      "name": "Bailey Richardson",
+      "birthDate": "1966-11-27",
+      "category": "entrepreneurs",
+      "profession": "Director",
+      "nationality": "Norwegian",
+      "bio": "Bailey Richardson is a Norwegian director.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "baileyrichardson"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "max-taylor-70",
+      "name": "Max Taylor",
+      "birthDate": "1976-10-01",
+      "category": "entrepreneurs",
+      "profession": "Bassist",
+      "nationality": "Scottish",
+      "bio": "Max Taylor is a Scottish bassist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "maxtaylor"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "isaac-taylor-71",
+      "name": "Isaac Taylor",
+      "birthDate": "1962-08-01",
+      "category": "entrepreneurs",
+      "profession": "Podcaster",
+      "nationality": "Irish",
+      "bio": "Isaac Taylor is a Irish podcaster.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "isaactaylor"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-smith-72",
+      "name": "Kai Smith",
+      "birthDate": "1982-06-21",
+      "category": "entrepreneurs",
+      "profession": "Analyst",
+      "nationality": "Hungarian",
+      "bio": "Kai Smith is a Hungarian analyst.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "kaismith"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-collins-73",
+      "name": "Quinn Collins",
+      "birthDate": "1998-04-08",
+      "category": "entrepreneurs",
+      "profession": "Entrepreneur",
+      "nationality": "Canadian",
+      "bio": "Quinn Collins is a Canadian entrepreneur.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "quinncollins"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "beth-martinez-74",
+      "name": "Beth Martinez",
+      "birthDate": "1993-12-07",
+      "category": "entrepreneurs",
+      "profession": "Producer",
+      "nationality": "Scottish",
+      "bio": "Beth Martinez is a Scottish producer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "bethmartinez"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-thompson-75",
+      "name": "Emery Thompson",
+      "birthDate": "1983-03-03",
+      "category": "entrepreneurs",
+      "profession": "Streamer",
+      "nationality": "Spanish",
+      "bio": "Emery Thompson is a Spanish streamer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "emerythompson"
+      },
+      "achievements": [
+        "Streamer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aaron-ramirez-76",
+      "name": "Aaron Ramirez",
+      "birthDate": "1968-11-15",
+      "category": "entrepreneurs",
+      "profession": "Guitarist",
+      "nationality": "Greek",
+      "bio": "Aaron Ramirez is a Greek guitarist.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "aaronramirez"
+      },
+      "achievements": [
+        "Guitarist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-collins-77",
+      "name": "Emery Collins",
+      "birthDate": "1954-02-19",
+      "category": "entrepreneurs",
+      "profession": "Actor",
+      "nationality": "Scottish",
+      "bio": "Emery Collins is a Scottish actor.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "emerycollins"
+      },
+      "achievements": [
+        "Actor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "wade-ortiz-78",
+      "name": "Wade Ortiz",
+      "birthDate": "2006-06-11",
+      "category": "entrepreneurs",
+      "profession": "Activist",
+      "nationality": "Australian",
+      "bio": "Wade Ortiz is a Australian activist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "wadeortiz"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "oliver-reed-79",
+      "name": "Oliver Reed",
+      "birthDate": "1955-03-30",
+      "category": "entrepreneurs",
+      "profession": "CEO",
+      "nationality": "Ukrainian",
+      "bio": "Oliver Reed is a Ukrainian ceo.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "oliverreed"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-sanchez-80",
+      "name": "Taylor Sanchez",
+      "birthDate": "1993-12-14",
+      "category": "entrepreneurs",
+      "profession": "Journalist",
+      "nationality": "Irish",
+      "bio": "Taylor Sanchez is a Irish journalist.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "taylorsanchez"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-campbell-81",
+      "name": "Quinn Campbell",
+      "birthDate": "1955-12-24",
+      "category": "entrepreneurs",
+      "profession": "Actress",
+      "nationality": "Croatian",
+      "bio": "Quinn Campbell is a Croatian actress.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "quinncampbell"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "diana-perez-82",
+      "name": "Diana Perez",
+      "birthDate": "1950-05-15",
+      "category": "entrepreneurs",
+      "profession": "Runner",
+      "nationality": "Canadian",
+      "bio": "Diana Perez is a Canadian runner.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "dianaperez"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "iris-morgan-83",
+      "name": "Iris Morgan",
+      "birthDate": "1990-01-25",
+      "category": "entrepreneurs",
+      "profession": "Model",
+      "nationality": "Colombian",
+      "bio": "Iris Morgan is a Colombian model.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "irismorgan"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-lee-84",
+      "name": "Sage Lee",
+      "birthDate": "1980-02-16",
+      "category": "entrepreneurs",
+      "profession": "Runner",
+      "nationality": "Venezuelan",
+      "bio": "Sage Lee is a Venezuelan runner.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "sagelee"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "felix-robinson-85",
+      "name": "Felix Robinson",
+      "birthDate": "1964-11-24",
+      "category": "entrepreneurs",
+      "profession": "Bassist",
+      "nationality": "Swiss",
+      "bio": "Felix Robinson is a Swiss bassist.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "felixrobinson"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logan-green-86",
+      "name": "Logan Green",
+      "birthDate": "1961-07-02",
+      "category": "entrepreneurs",
+      "profession": "YouTuber",
+      "nationality": "Japanese",
+      "bio": "Logan Green is a Japanese youtuber.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "logangreen"
+      },
+      "achievements": [
+        "YouTuber of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-williams-87",
+      "name": "Sage Williams",
+      "birthDate": "1953-08-03",
+      "category": "entrepreneurs",
+      "profession": "Politician",
+      "nationality": "Russian",
+      "bio": "Sage Williams is a Russian politician.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "sagewilliams"
+      },
+      "achievements": [
+        "Politician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-lewis-88",
+      "name": "Paige Lewis",
+      "birthDate": "1975-10-19",
+      "category": "entrepreneurs",
+      "profession": "Influencer",
+      "nationality": "Swiss",
+      "bio": "Paige Lewis is a Swiss influencer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "paigelewis"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-rodriguez-89",
+      "name": "Brooklyn Rodriguez",
+      "birthDate": "1956-05-06",
+      "category": "entrepreneurs",
+      "profession": "Author",
+      "nationality": "Venezuelan",
+      "bio": "Brooklyn Rodriguez is a Venezuelan author.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "brooklynrodriguez"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "phoenix-martin-90",
+      "name": "Phoenix Martin",
+      "birthDate": "2004-01-14",
+      "category": "entrepreneurs",
+      "profession": "Singer",
+      "nationality": "Bulgarian",
+      "bio": "Phoenix Martin is a Bulgarian singer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "phoenixmartin"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "oliver-carter-91",
+      "name": "Oliver Carter",
+      "birthDate": "1999-07-08",
+      "category": "entrepreneurs",
+      "profession": "Entrepreneur",
+      "nationality": "New Zealander",
+      "bio": "Oliver Carter is a New Zealander entrepreneur.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "olivercarter"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "wade-kim-92",
+      "name": "Wade Kim",
+      "birthDate": "1993-06-13",
+      "category": "entrepreneurs",
+      "profession": "Designer",
+      "nationality": "Argentinian",
+      "bio": "Wade Kim is a Argentinian designer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "wadekim"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "luna-hall-93",
+      "name": "Luna Hall",
+      "birthDate": "1956-06-08",
+      "category": "entrepreneurs",
+      "profession": "Influencer",
+      "nationality": "Peruvian",
+      "bio": "Luna Hall is a Peruvian influencer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "lunahall"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aaron-jones-94",
+      "name": "Aaron Jones",
+      "birthDate": "1971-02-10",
+      "category": "entrepreneurs",
+      "profession": "CEO",
+      "nationality": "Spanish",
+      "bio": "Aaron Jones is a Spanish ceo.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "aaronjones"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-kelly-95",
+      "name": "Ashton Kelly",
+      "birthDate": "1980-05-24",
+      "category": "entrepreneurs",
+      "profession": "DJ",
+      "nationality": "Norwegian",
+      "bio": "Ashton Kelly is a Norwegian dj.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "ashtonkelly"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "owen-jackson-96",
+      "name": "Owen Jackson",
+      "birthDate": "1961-08-25",
+      "category": "entrepreneurs",
+      "profession": "Investor",
+      "nationality": "Turkish",
+      "bio": "Owen Jackson is a Turkish investor.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "owenjackson"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "morgan-cox-97",
+      "name": "Morgan Cox",
+      "birthDate": "1998-05-10",
+      "category": "entrepreneurs",
+      "profession": "Composer",
+      "nationality": "Turkish",
+      "bio": "Morgan Cox is a Turkish composer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "morgancox"
+      },
+      "achievements": [
+        "Composer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hayden-cooper-98",
+      "name": "Hayden Cooper",
+      "birthDate": "1964-03-14",
+      "category": "entrepreneurs",
+      "profession": "Athlete",
+      "nationality": "Italian",
+      "bio": "Hayden Cooper is a Italian athlete.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "haydencooper"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "lily-ramos-99",
+      "name": "Lily Ramos",
+      "birthDate": "1977-11-27",
+      "category": "entrepreneurs",
+      "profession": "Podcaster",
+      "nationality": "Bulgarian",
+      "bio": "Lily Ramos is a Bulgarian podcaster.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "lilyramos"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zion-hall-100",
+      "name": "Zion Hall",
+      "birthDate": "1999-09-01",
+      "category": "entrepreneurs",
+      "profession": "Doctor",
+      "nationality": "American",
+      "bio": "Zion Hall is a American doctor.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "zionhall"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "mukesh-ambani-indian-1",
+      "name": "Mukesh Ambani",
+      "birthDate": "1957-04-19",
+      "category": "entrepreneurs",
+      "profession": "Business Tycoon",
+      "nationality": "Indian",
+      "bio": "Chairman of Reliance Industries and Asia's richest person.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "mukeshambani",
+        "twitter": "mukeshambani",
+        "youtube": "mukeshambani"
+      },
+      "achievements": [
+        "Business Tycoon of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "gautam-adani-indian-2",
+      "name": "Gautam Adani",
+      "birthDate": "1962-06-24",
+      "category": "entrepreneurs",
+      "profession": "Business Tycoon",
+      "nationality": "Indian",
+      "bio": "Founder of Adani Group and infrastructure magnate.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "gautamadani",
+        "twitter": "gautamadani",
+        "youtube": "gautamadani"
+      },
+      "achievements": [
+        "Business Tycoon of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "azim-premji-indian-3",
+      "name": "Azim Premji",
+      "birthDate": "1945-07-24",
+      "category": "entrepreneurs",
+      "profession": "Business Leader",
+      "nationality": "Indian",
+      "bio": "Former chairman of Wipro and philanthropist.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "azimpremji",
+        "twitter": "azimpremji",
+        "youtube": "azimpremji"
+      },
+      "achievements": [
+        "Business Leader of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "ratan-tata-indian-4",
+      "name": "Ratan Tata",
+      "birthDate": "1937-12-28",
+      "category": "entrepreneurs",
+      "profession": "Business Leader",
+      "nationality": "Indian",
+      "bio": "Former chairman of Tata Sons and philanthropist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "ratantata",
+        "twitter": "ratantata",
+        "youtube": "ratantata"
+      },
+      "achievements": [
+        "Business Leader of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "narayana-murthy-indian-5",
+      "name": "Narayana Murthy",
+      "birthDate": "1946-08-20",
+      "category": "entrepreneurs",
+      "profession": "Business Leader",
+      "nationality": "Indian",
+      "bio": "Co-founder of Infosys and IT industry pioneer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "narayanamurthy",
+        "twitter": "narayanamurthy",
+        "youtube": "narayanamurthy"
+      },
+      "achievements": [
+        "Business Leader of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "kiran-mazumdar-shaw-indian-6",
+      "name": "Kiran Mazumdar-Shaw",
+      "birthDate": "1953-03-23",
+      "category": "entrepreneurs",
+      "profession": "Biotech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Founder of Biocon and biotechnology pioneer.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "kiranmazumdar-shaw",
+        "twitter": "kiranmazumdar-shaw",
+        "youtube": "kiranmazumdar-shaw"
+      },
+      "achievements": [
+        "Biotech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "vijay-shekhar-sharma-indian-7",
+      "name": "Vijay Shekhar Sharma",
+      "birthDate": "1978-07-08",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Founder of Paytm and digital payments pioneer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "vijayshekharsharma",
+        "twitter": "vijayshekharsharma",
+        "youtube": "vijayshekharsharma"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "bhavish-aggarwal-indian-8",
+      "name": "Bhavish Aggarwal",
+      "birthDate": "1985-08-28",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Co-founder of Ola and mobility solutions pioneer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "bhavishaggarwal",
+        "twitter": "bhavishaggarwal",
+        "youtube": "bhavishaggarwal"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sachin-bansal-indian-9",
+      "name": "Sachin Bansal",
+      "birthDate": "1981-08-05",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Co-founder of Flipkart and e-commerce pioneer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "sachinbansal",
+        "twitter": "sachinbansal",
+        "youtube": "sachinbansal"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "binny-bansal-indian-10",
+      "name": "Binny Bansal",
+      "birthDate": "1982-11-19",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Co-founder of Flipkart and e-commerce pioneer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "binnybansal",
+        "twitter": "binnybansal",
+        "youtube": "binnybansal"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "ritesh-agarwal-indian-11",
+      "name": "Ritesh Agarwal",
+      "birthDate": "1993-11-16",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Founder of OYO Rooms and hospitality disruptor.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "riteshagarwal",
+        "twitter": "riteshagarwal",
+        "youtube": "riteshagarwal"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "kunal-shah-indian-12",
+      "name": "Kunal Shah",
+      "birthDate": "1983-01-01",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Founder of CRED and fintech innovator.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "kunalshah",
+        "twitter": "kunalshah",
+        "youtube": "kunalshah"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "nithin-kamath-indian-13",
+      "name": "Nithin Kamath",
+      "birthDate": "1980-10-05",
+      "category": "entrepreneurs",
+      "profession": "Fintech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Co-founder of Zerodha and stock trading pioneer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "nithinkamath",
+        "twitter": "nithinkamath",
+        "youtube": "nithinkamath"
+      },
+      "achievements": [
+        "Fintech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "nikhil-kamath-indian-14",
+      "name": "Nikhil Kamath",
+      "birthDate": "1986-09-05",
+      "category": "entrepreneurs",
+      "profession": "Fintech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Co-founder of Zerodha and stock trading pioneer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "nikhilkamath",
+        "twitter": "nikhilkamath",
+        "youtube": "nikhilkamath"
+      },
+      "achievements": [
+        "Fintech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "deepinder-goyal-indian-15",
+      "name": "Deepinder Goyal",
+      "birthDate": "1983-01-26",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Founder of Zomato and food delivery pioneer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "deepindergoyal",
+        "twitter": "deepindergoyal",
+        "youtube": "deepindergoyal"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "peyush-bansal-indian-16",
+      "name": "Peyush Bansal",
+      "birthDate": "1985-01-01",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Co-founder of Lenskart and eyewear disruptor.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "peyushbansal",
+        "twitter": "peyushbansal",
+        "youtube": "peyushbansal"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "amit-gupta-indian-17",
+      "name": "Amit Gupta",
+      "birthDate": "1982-01-01",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Co-founder of InMobi and mobile advertising pioneer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "amitgupta",
+        "twitter": "amitgupta",
+        "youtube": "amitgupta"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "naveen-tewari-indian-18",
+      "name": "Naveen Tewari",
+      "birthDate": "1977-01-01",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Founder of InMobi and mobile advertising pioneer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "naveentewari",
+        "twitter": "naveentewari",
+        "youtube": "naveentewari"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sridhar-vembu-indian-19",
+      "name": "Sridhar Vembu",
+      "birthDate": "1968-01-01",
+      "category": "entrepreneurs",
+      "profession": "Tech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Founder of Zoho and software industry pioneer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "sridharvembu",
+        "twitter": "sridharvembu",
+        "youtube": "sridharvembu"
+      },
+      "achievements": [
+        "Tech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "radhika-gupta-indian-20",
+      "name": "Radhika Gupta",
+      "birthDate": "1984-01-01",
+      "category": "entrepreneurs",
+      "profession": "Fintech Entrepreneur",
+      "nationality": "Indian",
+      "bio": "CEO of Edelweiss Asset Management and finance leader.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "radhikagupta",
+        "twitter": "radhikagupta",
+        "youtube": "radhikagupta"
+      },
+      "achievements": [
+        "Fintech Entrepreneur of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    }
+  ],
+  "count": 120
+}
