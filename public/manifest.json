@@ -1,0 +1,29 @@
+{
+  "name": "Age Calculator - Calculate Your Exact Age",
+  "short_name": "Age Calculator",
+  "description": "A simple and accurate age calculator that shows your exact age in years, months, days, hours, and minutes. Easy to use and mobile-friendly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

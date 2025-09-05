@@ -1,0 +1,2108 @@
+{
+  "category": "musicians",
+  "label": "Musicians & Singers",
+  "icon": "🎤",
+  "celebrities": [
+    {
+      "id": "adrian-hernandez-1",
+      "name": "Adrian Hernandez",
+      "birthDate": "2008-01-26",
+      "category": "musicians",
+      "profession": "Teacher",
+      "nationality": "Scottish",
+      "bio": "Adrian Hernandez is a Scottish teacher.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "adrianhernandez"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "alex-cooper-2",
+      "name": "Alex Cooper",
+      "birthDate": "1962-01-10",
+      "category": "musicians",
+      "profession": "Runner",
+      "nationality": "Polish",
+      "bio": "Alex Cooper is a Polish runner.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "alexcooper"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-davis-3",
+      "name": "Tatum Davis",
+      "birthDate": "1966-04-21",
+      "category": "musicians",
+      "profession": "Influencer",
+      "nationality": "Norwegian",
+      "bio": "Tatum Davis is a Norwegian influencer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "tatumdavis"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tyler-ortiz-4",
+      "name": "Tyler Ortiz",
+      "birthDate": "1983-09-08",
+      "category": "musicians",
+      "profession": "Composer",
+      "nationality": "Hungarian",
+      "bio": "Tyler Ortiz is a Hungarian composer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "tylerortiz"
+      },
+      "achievements": [
+        "Composer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-allen-5",
+      "name": "Taylor Allen",
+      "birthDate": "1999-09-10",
+      "category": "musicians",
+      "profession": "Footballer",
+      "nationality": "Greek",
+      "bio": "Taylor Allen is a Greek footballer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "taylorallen"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bella-carter-6",
+      "name": "Bella Carter",
+      "birthDate": "2010-05-18",
+      "category": "musicians",
+      "profession": "Designer",
+      "nationality": "Croatian",
+      "bio": "Bella Carter is a Croatian designer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "bellacarter"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-taylor-7",
+      "name": "Ashton Taylor",
+      "birthDate": "1952-10-10",
+      "category": "musicians",
+      "profession": "Musician",
+      "nationality": "Hungarian",
+      "bio": "Ashton Taylor is a Hungarian musician.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "ashtontaylor"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-campbell-8",
+      "name": "Ashton Campbell",
+      "birthDate": "2009-01-23",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Peruvian",
+      "bio": "Ashton Campbell is a Peruvian singer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "ashtoncampbell"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-collins-9",
+      "name": "Aiden Collins",
+      "birthDate": "1959-11-24",
+      "category": "musicians",
+      "profession": "Chef",
+      "nationality": "Australian",
+      "bio": "Aiden Collins is a Australian chef.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "aidencollins"
+      },
+      "achievements": [
+        "Chef of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xara-peterson-10",
+      "name": "Xara Peterson",
+      "birthDate": "2007-06-16",
+      "category": "musicians",
+      "profession": "Pianist",
+      "nationality": "Ukrainian",
+      "bio": "Xara Peterson is a Ukrainian pianist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "xarapeterson"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-allen-11",
+      "name": "Ashton Allen",
+      "birthDate": "1972-12-08",
+      "category": "musicians",
+      "profession": "Swimmer",
+      "nationality": "Ukrainian",
+      "bio": "Ashton Allen is a Ukrainian swimmer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "ashtonallen"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "luna-smith-12",
+      "name": "Luna Smith",
+      "birthDate": "2002-10-21",
+      "category": "musicians",
+      "profession": "Basketball Player",
+      "nationality": "Brazilian",
+      "bio": "Luna Smith is a Brazilian basketball player.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "lunasmith"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-cooper-13",
+      "name": "Aiden Cooper",
+      "birthDate": "2005-07-08",
+      "category": "musicians",
+      "profession": "DJ",
+      "nationality": "Romanian",
+      "bio": "Aiden Cooper is a Romanian dj.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "aidencooper"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "avery-campbell-14",
+      "name": "Avery Campbell",
+      "birthDate": "1954-08-26",
+      "category": "musicians",
+      "profession": "MMA Fighter",
+      "nationality": "New Zealander",
+      "bio": "Avery Campbell is a New Zealander mma fighter.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "averycampbell"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nova-hill-15",
+      "name": "Nova Hill",
+      "birthDate": "1996-08-12",
+      "category": "musicians",
+      "profession": "Runner",
+      "nationality": "British",
+      "bio": "Nova Hill is a British runner.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "novahill"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hayden-davis-16",
+      "name": "Hayden Davis",
+      "birthDate": "1995-07-03",
+      "category": "musicians",
+      "profession": "Composer",
+      "nationality": "Austrian",
+      "bio": "Hayden Davis is a Austrian composer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "haydendavis"
+      },
+      "achievements": [
+        "Composer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "wade-king-17",
+      "name": "Wade King",
+      "birthDate": "1987-03-13",
+      "category": "musicians",
+      "profession": "Bassist",
+      "nationality": "Korean",
+      "bio": "Wade King is a Korean bassist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "wadeking"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "adrian-lee-18",
+      "name": "Adrian Lee",
+      "birthDate": "2006-01-23",
+      "category": "musicians",
+      "profession": "Bassist",
+      "nationality": "Japanese",
+      "bio": "Adrian Lee is a Japanese bassist.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "adrianlee"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-wright-19",
+      "name": "Sage Wright",
+      "birthDate": "1960-03-19",
+      "category": "musicians",
+      "profession": "Doctor",
+      "nationality": "New Zealander",
+      "bio": "Sage Wright is a New Zealander doctor.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "sagewright"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "evelyn-scott-20",
+      "name": "Evelyn Scott",
+      "birthDate": "1993-05-09",
+      "category": "musicians",
+      "profession": "Tennis Player",
+      "nationality": "Turkish",
+      "bio": "Evelyn Scott is a Turkish tennis player.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "evelynscott"
+      },
+      "achievements": [
+        "Tennis Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "adrian-rivera-21",
+      "name": "Adrian Rivera",
+      "birthDate": "1975-03-23",
+      "category": "musicians",
+      "profession": "Founder",
+      "nationality": "Swiss",
+      "bio": "Adrian Rivera is a Swiss founder.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "adrianrivera"
+      },
+      "achievements": [
+        "Founder of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "mason-walker-22",
+      "name": "Mason Walker",
+      "birthDate": "1978-10-04",
+      "category": "musicians",
+      "profession": "Swimmer",
+      "nationality": "Korean",
+      "bio": "Mason Walker is a Korean swimmer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "masonwalker"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "julia-miller-23",
+      "name": "Julia Miller",
+      "birthDate": "2001-12-06",
+      "category": "musicians",
+      "profession": "Author",
+      "nationality": "German",
+      "bio": "Julia Miller is a German author.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "juliamiller"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "avery-carter-24",
+      "name": "Avery Carter",
+      "birthDate": "1992-05-16",
+      "category": "musicians",
+      "profession": "Streamer",
+      "nationality": "Venezuelan",
+      "bio": "Avery Carter is a Venezuelan streamer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "averycarter"
+      },
+      "achievements": [
+        "Streamer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "avery-ramirez-25",
+      "name": "Avery Ramirez",
+      "birthDate": "1976-08-19",
+      "category": "musicians",
+      "profession": "Choreographer",
+      "nationality": "Japanese",
+      "bio": "Avery Ramirez is a Japanese choreographer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "averyramirez"
+      },
+      "achievements": [
+        "Choreographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-rogers-26",
+      "name": "Tatum Rogers",
+      "birthDate": "1957-09-19",
+      "category": "musicians",
+      "profession": "Comedian",
+      "nationality": "Irish",
+      "bio": "Tatum Rogers is a Irish comedian.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "tatumrogers"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sam-williams-27",
+      "name": "Sam Williams",
+      "birthDate": "1997-10-04",
+      "category": "musicians",
+      "profession": "Podcaster",
+      "nationality": "Mexican",
+      "bio": "Sam Williams is a Mexican podcaster.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "samwilliams"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kyle-mitchell-28",
+      "name": "Kyle Mitchell",
+      "birthDate": "1988-06-12",
+      "category": "musicians",
+      "profession": "Runner",
+      "nationality": "Serbian",
+      "bio": "Kyle Mitchell is a Serbian runner.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "kylemitchell"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jamie-robinson-29",
+      "name": "Jamie Robinson",
+      "birthDate": "2006-06-11",
+      "category": "musicians",
+      "profession": "DJ",
+      "nationality": "American",
+      "bio": "Jamie Robinson is a American dj.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "jamierobinson"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tyler-carter-30",
+      "name": "Tyler Carter",
+      "birthDate": "1986-01-09",
+      "category": "musicians",
+      "profession": "Comedian",
+      "nationality": "Norwegian",
+      "bio": "Tyler Carter is a Norwegian comedian.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "tylercarter"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-hall-31",
+      "name": "Aiden Hall",
+      "birthDate": "2000-12-07",
+      "category": "musicians",
+      "profession": "Actress",
+      "nationality": "Spanish",
+      "bio": "Aiden Hall is a Spanish actress.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "aidenhall"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dakota-stewart-32",
+      "name": "Dakota Stewart",
+      "birthDate": "1974-08-05",
+      "category": "musicians",
+      "profession": "Teacher",
+      "nationality": "Welsh",
+      "bio": "Dakota Stewart is a Welsh teacher.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "dakotastewart"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-gonzalez-33",
+      "name": "Skyler Gonzalez",
+      "birthDate": "1963-02-08",
+      "category": "musicians",
+      "profession": "Politician",
+      "nationality": "Argentinian",
+      "bio": "Skyler Gonzalez is a Argentinian politician.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "skylergonzalez"
+      },
+      "achievements": [
+        "Politician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "diana-kelly-34",
+      "name": "Diana Kelly",
+      "birthDate": "1954-07-17",
+      "category": "musicians",
+      "profession": "Model",
+      "nationality": "Dutch",
+      "bio": "Diana Kelly is a Dutch model.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "dianakelly"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-howard-35",
+      "name": "Paige Howard",
+      "birthDate": "1990-05-16",
+      "category": "musicians",
+      "profession": "Musician",
+      "nationality": "Spanish",
+      "bio": "Paige Howard is a Spanish musician.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "paigehoward"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "peyton-hall-36",
+      "name": "Peyton Hall",
+      "birthDate": "1983-10-29",
+      "category": "musicians",
+      "profession": "Author",
+      "nationality": "British",
+      "bio": "Peyton Hall is a British author.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "peytonhall"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hayden-kelly-37",
+      "name": "Hayden Kelly",
+      "birthDate": "1994-05-08",
+      "category": "musicians",
+      "profession": "Consultant",
+      "nationality": "German",
+      "bio": "Hayden Kelly is a German consultant.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "haydenkelly"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "beth-jackson-38",
+      "name": "Beth Jackson",
+      "birthDate": "1970-06-07",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Scottish",
+      "bio": "Beth Jackson is a Scottish singer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "bethjackson"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ruby-carter-39",
+      "name": "Ruby Carter",
+      "birthDate": "2008-11-19",
+      "category": "musicians",
+      "profession": "Doctor",
+      "nationality": "Venezuelan",
+      "bio": "Ruby Carter is a Venezuelan doctor.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "rubycarter"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-peterson-40",
+      "name": "Casey Peterson",
+      "birthDate": "1958-11-25",
+      "category": "musicians",
+      "profession": "DJ",
+      "nationality": "Hungarian",
+      "bio": "Casey Peterson is a Hungarian dj.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "caseypeterson"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-baker-41",
+      "name": "Brooklyn Baker",
+      "birthDate": "1963-12-06",
+      "category": "musicians",
+      "profession": "Researcher",
+      "nationality": "Spanish",
+      "bio": "Brooklyn Baker is a Spanish researcher.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "brooklynbaker"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "alex-garcia-42",
+      "name": "Alex Garcia",
+      "birthDate": "1983-05-26",
+      "category": "musicians",
+      "profession": "Swimmer",
+      "nationality": "Croatian",
+      "bio": "Alex Garcia is a Croatian swimmer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "alexgarcia"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "morgan-evans-43",
+      "name": "Morgan Evans",
+      "birthDate": "1950-02-20",
+      "category": "musicians",
+      "profession": "Artist",
+      "nationality": "Polish",
+      "bio": "Morgan Evans is a Polish artist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "morganevans"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "uma-richardson-44",
+      "name": "Uma Richardson",
+      "birthDate": "1977-02-08",
+      "category": "musicians",
+      "profession": "CEO",
+      "nationality": "Irish",
+      "bio": "Uma Richardson is a Irish ceo.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "umarichardson"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bella-young-45",
+      "name": "Bella Young",
+      "birthDate": "1974-12-29",
+      "category": "musicians",
+      "profession": "Teacher",
+      "nationality": "Ukrainian",
+      "bio": "Bella Young is a Ukrainian teacher.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "bellayoung"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gavin-rodriguez-46",
+      "name": "Gavin Rodriguez",
+      "birthDate": "1954-01-28",
+      "category": "musicians",
+      "profession": "Basketball Player",
+      "nationality": "Canadian",
+      "bio": "Gavin Rodriguez is a Canadian basketball player.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "gavinrodriguez"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dakota-rivera-47",
+      "name": "Dakota Rivera",
+      "birthDate": "1998-09-19",
+      "category": "musicians",
+      "profession": "Boxer",
+      "nationality": "Portuguese",
+      "bio": "Dakota Rivera is a Portuguese boxer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "dakotarivera"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hannah-moore-48",
+      "name": "Hannah Moore",
+      "birthDate": "1957-01-10",
+      "category": "musicians",
+      "profession": "Writer",
+      "nationality": "Japanese",
+      "bio": "Hannah Moore is a Japanese writer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "hannahmoore"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "fiona-gomez-49",
+      "name": "Fiona Gomez",
+      "birthDate": "1984-11-24",
+      "category": "musicians",
+      "profession": "Producer",
+      "nationality": "Canadian",
+      "bio": "Fiona Gomez is a Canadian producer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "fionagomez"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "vera-cox-50",
+      "name": "Vera Cox",
+      "birthDate": "1978-07-12",
+      "category": "musicians",
+      "profession": "Bassist",
+      "nationality": "Swedish",
+      "bio": "Vera Cox is a Swedish bassist.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "veracox"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "caleb-reyes-51",
+      "name": "Caleb Reyes",
+      "birthDate": "1967-07-24",
+      "category": "musicians",
+      "profession": "Boxer",
+      "nationality": "Dutch",
+      "bio": "Caleb Reyes is a Dutch boxer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "calebreyes"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "wade-bailey-52",
+      "name": "Wade Bailey",
+      "birthDate": "1991-10-03",
+      "category": "musicians",
+      "profession": "Pianist",
+      "nationality": "New Zealander",
+      "bio": "Wade Bailey is a New Zealander pianist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "wadebailey"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "cameron-ramirez-53",
+      "name": "Cameron Ramirez",
+      "birthDate": "1993-08-25",
+      "category": "musicians",
+      "profession": "Activist",
+      "nationality": "British",
+      "bio": "Cameron Ramirez is a British activist.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "cameronramirez"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-gomez-54",
+      "name": "Casey Gomez",
+      "birthDate": "1956-07-07",
+      "category": "musicians",
+      "profession": "Podcaster",
+      "nationality": "Peruvian",
+      "bio": "Casey Gomez is a Peruvian podcaster.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "caseygomez"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "adrian-stewart-55",
+      "name": "Adrian Stewart",
+      "birthDate": "1965-02-11",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Mexican",
+      "bio": "Adrian Stewart is a Mexican singer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "adrianstewart"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sydney-adams-56",
+      "name": "Sydney Adams",
+      "birthDate": "1977-09-21",
+      "category": "musicians",
+      "profession": "Professor",
+      "nationality": "Mexican",
+      "bio": "Sydney Adams is a Mexican professor.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "sydneyadams"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nova-carter-57",
+      "name": "Nova Carter",
+      "birthDate": "1979-05-24",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Swedish",
+      "bio": "Nova Carter is a Swedish singer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "novacarter"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nina-garcia-58",
+      "name": "Nina Garcia",
+      "birthDate": "1962-04-24",
+      "category": "musicians",
+      "profession": "Runner",
+      "nationality": "Dutch",
+      "bio": "Nina Garcia is a Dutch runner.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "ninagarcia"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-ortiz-59",
+      "name": "Emery Ortiz",
+      "birthDate": "1974-10-07",
+      "category": "musicians",
+      "profession": "Activist",
+      "nationality": "Indian",
+      "bio": "Emery Ortiz is a Indian activist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "emeryortiz"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-garcia-60",
+      "name": "Taylor Garcia",
+      "birthDate": "1963-07-19",
+      "category": "musicians",
+      "profession": "Designer",
+      "nationality": "Welsh",
+      "bio": "Taylor Garcia is a Welsh designer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "taylorgarcia"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kyle-wilson-61",
+      "name": "Kyle Wilson",
+      "birthDate": "1951-07-18",
+      "category": "musicians",
+      "profession": "Dancer",
+      "nationality": "Chinese",
+      "bio": "Kyle Wilson is a Chinese dancer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "kylewilson"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "vera-jackson-62",
+      "name": "Vera Jackson",
+      "birthDate": "1963-07-25",
+      "category": "musicians",
+      "profession": "Artist",
+      "nationality": "Greek",
+      "bio": "Vera Jackson is a Greek artist.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "verajackson"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-king-63",
+      "name": "Emery King",
+      "birthDate": "1989-09-06",
+      "category": "musicians",
+      "profession": "Researcher",
+      "nationality": "Welsh",
+      "bio": "Emery King is a Welsh researcher.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "emeryking"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-gutierrez-64",
+      "name": "Emery Gutierrez",
+      "birthDate": "2004-08-26",
+      "category": "musicians",
+      "profession": "Artist",
+      "nationality": "Romanian",
+      "bio": "Emery Gutierrez is a Romanian artist.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "emerygutierrez"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sam-carter-65",
+      "name": "Sam Carter",
+      "birthDate": "1963-06-03",
+      "category": "musicians",
+      "profession": "DJ",
+      "nationality": "New Zealander",
+      "bio": "Sam Carter is a New Zealander dj.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "samcarter"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "riley-johnson-66",
+      "name": "Riley Johnson",
+      "birthDate": "1976-11-10",
+      "category": "musicians",
+      "profession": "Chef",
+      "nationality": "Welsh",
+      "bio": "Riley Johnson is a Welsh chef.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "rileyjohnson"
+      },
+      "achievements": [
+        "Chef of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "evelyn-turner-67",
+      "name": "Evelyn Turner",
+      "birthDate": "1977-12-15",
+      "category": "musicians",
+      "profession": "MMA Fighter",
+      "nationality": "Irish",
+      "bio": "Evelyn Turner is a Irish mma fighter.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "evelynturner"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-walker-68",
+      "name": "Tatum Walker",
+      "birthDate": "1977-02-02",
+      "category": "musicians",
+      "profession": "Founder",
+      "nationality": "British",
+      "bio": "Tatum Walker is a British founder.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "tatumwalker"
+      },
+      "achievements": [
+        "Founder of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bella-wilson-69",
+      "name": "Bella Wilson",
+      "birthDate": "2010-09-30",
+      "category": "musicians",
+      "profession": "Athlete",
+      "nationality": "Czech",
+      "bio": "Bella Wilson is a Czech athlete.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "bellawilson"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ethan-cruz-70",
+      "name": "Ethan Cruz",
+      "birthDate": "1973-07-08",
+      "category": "musicians",
+      "profession": "Journalist",
+      "nationality": "Ukrainian",
+      "bio": "Ethan Cruz is a Ukrainian journalist.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "ethancruz"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-green-71",
+      "name": "Skyler Green",
+      "birthDate": "1956-03-13",
+      "category": "musicians",
+      "profession": "DJ",
+      "nationality": "Venezuelan",
+      "bio": "Skyler Green is a Venezuelan dj.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "skylergreen"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ellis-hall-72",
+      "name": "Ellis Hall",
+      "birthDate": "1969-01-18",
+      "category": "musicians",
+      "profession": "Rapper",
+      "nationality": "Spanish",
+      "bio": "Ellis Hall is a Spanish rapper.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "ellishall"
+      },
+      "achievements": [
+        "Rapper of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tara-perez-73",
+      "name": "Tara Perez",
+      "birthDate": "2006-04-07",
+      "category": "musicians",
+      "profession": "Analyst",
+      "nationality": "Czech",
+      "bio": "Tara Perez is a Czech analyst.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "taraperez"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tyler-lewis-74",
+      "name": "Tyler Lewis",
+      "birthDate": "1964-10-19",
+      "category": "musicians",
+      "profession": "Designer",
+      "nationality": "Australian",
+      "bio": "Tyler Lewis is a Australian designer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "tylerlewis"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-harris-75",
+      "name": "Taylor Harris",
+      "birthDate": "2010-07-08",
+      "category": "musicians",
+      "profession": "Author",
+      "nationality": "Peruvian",
+      "bio": "Taylor Harris is a Peruvian author.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "taylorharris"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jordan-white-76",
+      "name": "Jordan White",
+      "birthDate": "1979-10-18",
+      "category": "musicians",
+      "profession": "Musician",
+      "nationality": "Greek",
+      "bio": "Jordan White is a Greek musician.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "jordanwhite"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "vera-roberts-77",
+      "name": "Vera Roberts",
+      "birthDate": "1995-09-23",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Welsh",
+      "bio": "Vera Roberts is a Welsh singer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "veraroberts"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "uma-garcia-78",
+      "name": "Uma Garcia",
+      "birthDate": "2000-01-09",
+      "category": "musicians",
+      "profession": "Designer",
+      "nationality": "Argentinian",
+      "bio": "Uma Garcia is a Argentinian designer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "umagarcia"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-davis-79",
+      "name": "Kai Davis",
+      "birthDate": "1977-10-03",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Belgian",
+      "bio": "Kai Davis is a Belgian singer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "kaidavis"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bella-nelson-80",
+      "name": "Bella Nelson",
+      "birthDate": "2002-09-06",
+      "category": "musicians",
+      "profession": "Artist",
+      "nationality": "Chinese",
+      "bio": "Bella Nelson is a Chinese artist.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "bellanelson"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-morales-81",
+      "name": "Quinn Morales",
+      "birthDate": "1983-08-08",
+      "category": "musicians",
+      "profession": "Teacher",
+      "nationality": "Australian",
+      "bio": "Quinn Morales is a Australian teacher.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "quinnmorales"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-perez-82",
+      "name": "Tatum Perez",
+      "birthDate": "1997-03-13",
+      "category": "musicians",
+      "profession": "Actress",
+      "nationality": "Serbian",
+      "bio": "Tatum Perez is a Serbian actress.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "tatumperez"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nina-clark-83",
+      "name": "Nina Clark",
+      "birthDate": "1997-12-16",
+      "category": "musicians",
+      "profession": "Musician",
+      "nationality": "Brazilian",
+      "bio": "Nina Clark is a Brazilian musician.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "ninaclark"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "finley-reed-84",
+      "name": "Finley Reed",
+      "birthDate": "1967-02-03",
+      "category": "musicians",
+      "profession": "Investor",
+      "nationality": "Irish",
+      "bio": "Finley Reed is a Irish investor.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "finleyreed"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-taylor-85",
+      "name": "Sage Taylor",
+      "birthDate": "1959-04-30",
+      "category": "musicians",
+      "profession": "Professor",
+      "nationality": "Turkish",
+      "bio": "Sage Taylor is a Turkish professor.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "sagetaylor"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "alex-davis-86",
+      "name": "Alex Davis",
+      "birthDate": "1968-08-06",
+      "category": "musicians",
+      "profession": "Producer",
+      "nationality": "Venezuelan",
+      "bio": "Alex Davis is a Venezuelan producer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "alexdavis"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-lee-87",
+      "name": "Emery Lee",
+      "birthDate": "1978-06-30",
+      "category": "musicians",
+      "profession": "Actress",
+      "nationality": "British",
+      "bio": "Emery Lee is a British actress.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "emerylee"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-jones-88",
+      "name": "Aiden Jones",
+      "birthDate": "1966-09-30",
+      "category": "musicians",
+      "profession": "Researcher",
+      "nationality": "Chinese",
+      "bio": "Aiden Jones is a Chinese researcher.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "aidenjones"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-clark-89",
+      "name": "Yuki Clark",
+      "birthDate": "2007-03-05",
+      "category": "musicians",
+      "profession": "Researcher",
+      "nationality": "South African",
+      "bio": "Yuki Clark is a South African researcher.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "yukiclark"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-garcia-90",
+      "name": "Emery Garcia",
+      "birthDate": "1985-11-16",
+      "category": "musicians",
+      "profession": "Journalist",
+      "nationality": "British",
+      "bio": "Emery Garcia is a British journalist.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "emerygarcia"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "riley-ramirez-91",
+      "name": "Riley Ramirez",
+      "birthDate": "1960-02-20",
+      "category": "musicians",
+      "profession": "Musician",
+      "nationality": "Greek",
+      "bio": "Riley Ramirez is a Greek musician.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "rileyramirez"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ulysses-gomez-92",
+      "name": "Ulysses Gomez",
+      "birthDate": "1958-07-19",
+      "category": "musicians",
+      "profession": "Activist",
+      "nationality": "Argentinian",
+      "bio": "Ulysses Gomez is a Argentinian activist.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "ulyssesgomez"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sydney-gonzalez-93",
+      "name": "Sydney Gonzalez",
+      "birthDate": "2009-02-02",
+      "category": "musicians",
+      "profession": "Designer",
+      "nationality": "German",
+      "bio": "Sydney Gonzalez is a German designer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "sydneygonzalez"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kyle-ramos-94",
+      "name": "Kyle Ramos",
+      "birthDate": "1987-10-08",
+      "category": "musicians",
+      "profession": "Founder",
+      "nationality": "Scottish",
+      "bio": "Kyle Ramos is a Scottish founder.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "kyleramos"
+      },
+      "achievements": [
+        "Founder of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "julia-baker-95",
+      "name": "Julia Baker",
+      "birthDate": "1950-07-30",
+      "category": "musicians",
+      "profession": "Author",
+      "nationality": "American",
+      "bio": "Julia Baker is a American author.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "juliabaker"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "river-nelson-96",
+      "name": "River Nelson",
+      "birthDate": "2004-06-18",
+      "category": "musicians",
+      "profession": "Doctor",
+      "nationality": "Portuguese",
+      "bio": "River Nelson is a Portuguese doctor.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "rivernelson"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "cameron-white-97",
+      "name": "Cameron White",
+      "birthDate": "1978-12-07",
+      "category": "musicians",
+      "profession": "Streamer",
+      "nationality": "Serbian",
+      "bio": "Cameron White is a Serbian streamer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "cameronwhite"
+      },
+      "achievements": [
+        "Streamer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-reed-98",
+      "name": "Quinn Reed",
+      "birthDate": "1976-08-02",
+      "category": "musicians",
+      "profession": "Athlete",
+      "nationality": "Serbian",
+      "bio": "Quinn Reed is a Serbian athlete.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "quinnreed"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gavin-martinez-99",
+      "name": "Gavin Martinez",
+      "birthDate": "1953-09-29",
+      "category": "musicians",
+      "profession": "Pianist",
+      "nationality": "Ukrainian",
+      "bio": "Gavin Martinez is a Ukrainian pianist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "gavinmartinez"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dakota-baker-100",
+      "name": "Dakota Baker",
+      "birthDate": "2004-04-24",
+      "category": "musicians",
+      "profession": "Scientist",
+      "nationality": "Venezuelan",
+      "bio": "Dakota Baker is a Venezuelan scientist.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "dakotabaker"
+      },
+      "achievements": [
+        "Scientist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "a.r.-rahman-indian-1",
+      "name": "A.R. Rahman",
+      "birthDate": "1967-01-06",
+      "category": "musicians",
+      "profession": "Music Composer",
+      "nationality": "Indian",
+      "bio": "Oscar-winning music composer known as the 'Mozart of Madras'.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "a.r.rahman",
+        "twitter": "a.r.rahman",
+        "youtube": "a.r.rahman"
+      },
+      "achievements": [
+        "Music Composer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "lata-mangeshkar-indian-2",
+      "name": "Lata Mangeshkar",
+      "birthDate": "1929-09-28",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Legendary playback singer known as the 'Nightingale of India'.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "latamangeshkar",
+        "twitter": "latamangeshkar",
+        "youtube": "latamangeshkar"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "kishore-kumar-indian-3",
+      "name": "Kishore Kumar",
+      "birthDate": "1929-08-04",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Legendary playback singer and actor known for his versatile voice.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "kishorekumar",
+        "twitter": "kishorekumar",
+        "youtube": "kishorekumar"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "mohammed-rafi-indian-4",
+      "name": "Mohammed Rafi",
+      "birthDate": "1924-12-24",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Legendary playback singer with over 7,000 songs to his credit.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "mohammedrafi",
+        "twitter": "mohammedrafi",
+        "youtube": "mohammedrafi"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "asha-bhosle-indian-5",
+      "name": "Asha Bhosle",
+      "birthDate": "1933-09-08",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Legendary playback singer known for her versatility and longevity.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "ashabhosle",
+        "twitter": "ashabhosle",
+        "youtube": "ashabhosle"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sonu-nigam-indian-6",
+      "name": "Sonu Nigam",
+      "birthDate": "1973-07-30",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Popular playback singer known for his melodious voice.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "sonunigam",
+        "twitter": "sonunigam",
+        "youtube": "sonunigam"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "shreya-ghoshal-indian-7",
+      "name": "Shreya Ghoshal",
+      "birthDate": "1984-03-12",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Award-winning playback singer known for her sweet voice.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "shreyaghoshal",
+        "twitter": "shreyaghoshal",
+        "youtube": "shreyaghoshal"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "arijit-singh-indian-8",
+      "name": "Arijit Singh",
+      "birthDate": "1987-04-25",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Popular playback singer known for his romantic songs.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "arijitsingh",
+        "twitter": "arijitsingh",
+        "youtube": "arijitsingh"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "neha-kakkar-indian-9",
+      "name": "Neha Kakkar",
+      "birthDate": "1988-06-06",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Popular playback singer and YouTube sensation.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "nehakakkar",
+        "twitter": "nehakakkar",
+        "youtube": "nehakakkar"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "badshah-indian-10",
+      "name": "Badshah",
+      "birthDate": "1985-11-19",
+      "category": "musicians",
+      "profession": "Rapper",
+      "nationality": "Indian",
+      "bio": "Popular Indian rapper and music producer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "badshah",
+        "twitter": "badshah",
+        "youtube": "badshah"
+      },
+      "achievements": [
+        "Rapper of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "yo-yo-honey-singh-indian-11",
+      "name": "Yo Yo Honey Singh",
+      "birthDate": "1983-03-15",
+      "category": "musicians",
+      "profession": "Rapper",
+      "nationality": "Indian",
+      "bio": "Popular Indian rapper and music producer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "yoyohoneysingh",
+        "twitter": "yoyohoneysingh",
+        "youtube": "yoyohoneysingh"
+      },
+      "achievements": [
+        "Rapper of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "diljit-dosanjh-indian-12",
+      "name": "Diljit Dosanjh",
+      "birthDate": "1984-01-06",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Indian",
+      "bio": "Punjabi singer and actor known for his folk music.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "diljitdosanjh",
+        "twitter": "diljitdosanjh",
+        "youtube": "diljitdosanjh"
+      },
+      "achievements": [
+        "Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "gurdas-maan-indian-13",
+      "name": "Gurdas Maan",
+      "birthDate": "1957-01-04",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Indian",
+      "bio": "Legendary Punjabi folk singer and actor.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "gurdasmaan",
+        "twitter": "gurdasmaan",
+        "youtube": "gurdasmaan"
+      },
+      "achievements": [
+        "Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "kailash-kher-indian-14",
+      "name": "Kailash Kher",
+      "birthDate": "1973-07-07",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Indian",
+      "bio": "Sufi and folk singer known for his unique voice.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "kailashkher",
+        "twitter": "kailashkher",
+        "youtube": "kailashkher"
+      },
+      "achievements": [
+        "Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sukhwinder-singh-indian-15",
+      "name": "Sukhwinder Singh",
+      "birthDate": "1971-07-18",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Indian",
+      "bio": "Playback singer known for his powerful voice in Bollywood.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "sukhwindersingh",
+        "twitter": "sukhwindersingh",
+        "youtube": "sukhwindersingh"
+      },
+      "achievements": [
+        "Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "udit-narayan-indian-16",
+      "name": "Udit Narayan",
+      "birthDate": "1955-12-01",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Popular playback singer known for his romantic songs.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "uditnarayan",
+        "twitter": "uditnarayan",
+        "youtube": "uditnarayan"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "kumar-sanu-indian-17",
+      "name": "Kumar Sanu",
+      "birthDate": "1957-09-20",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Popular playback singer known for his melodious voice.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "kumarsanu",
+        "twitter": "kumarsanu",
+        "youtube": "kumarsanu"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "alka-yagnik-indian-18",
+      "name": "Alka Yagnik",
+      "birthDate": "1966-03-20",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Popular playback singer known for her sweet voice.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "alkayagnik",
+        "twitter": "alkayagnik",
+        "youtube": "alkayagnik"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sunidhi-chauhan-indian-19",
+      "name": "Sunidhi Chauhan",
+      "birthDate": "1983-08-14",
+      "category": "musicians",
+      "profession": "Playback Singer",
+      "nationality": "Indian",
+      "bio": "Popular playback singer known for her versatile voice.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "sunidhichauhan",
+        "twitter": "sunidhichauhan",
+        "youtube": "sunidhichauhan"
+      },
+      "achievements": [
+        "Playback Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "ankit-tiwari-indian-20",
+      "name": "Ankit Tiwari",
+      "birthDate": "1986-03-05",
+      "category": "musicians",
+      "profession": "Singer",
+      "nationality": "Indian",
+      "bio": "Playback singer and music composer known for his romantic songs.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "ankittiwari",
+        "twitter": "ankittiwari",
+        "youtube": "ankittiwari"
+      },
+      "achievements": [
+        "Singer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    }
+  ],
+  "count": 120
+}

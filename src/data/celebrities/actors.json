@@ -1,0 +1,2318 @@
+{
+  "category": "actors",
+  "label": "Actors & Actresses",
+  "icon": "🎭",
+  "celebrities": [
+    {
+      "id": "sydney-gomez-1",
+      "name": "Sydney Gomez",
+      "birthDate": "1993-10-19",
+      "category": "actors",
+      "profession": "Professor",
+      "nationality": "Croatian",
+      "bio": "Sydney Gomez is a Croatian professor.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "sydneygomez"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yara-gonzalez-2",
+      "name": "Yara Gonzalez",
+      "birthDate": "1990-04-15",
+      "category": "actors",
+      "profession": "Writer",
+      "nationality": "Bulgarian",
+      "bio": "Yara Gonzalez is a Bulgarian writer.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "yaragonzalez"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dana-king-3",
+      "name": "Dana King",
+      "birthDate": "1965-09-07",
+      "category": "actors",
+      "profession": "Designer",
+      "nationality": "Belgian",
+      "bio": "Dana King is a Belgian designer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "danaking"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xander-cook-4",
+      "name": "Xander Cook",
+      "birthDate": "1973-03-15",
+      "category": "actors",
+      "profession": "Doctor",
+      "nationality": "Ukrainian",
+      "bio": "Xander Cook is a Ukrainian doctor.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "xandercook"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "vera-hill-5",
+      "name": "Vera Hill",
+      "birthDate": "1990-08-29",
+      "category": "actors",
+      "profession": "Researcher",
+      "nationality": "Chilean",
+      "bio": "Vera Hill is a Chilean researcher.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "verahill"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-torres-6",
+      "name": "Skyler Torres",
+      "birthDate": "1984-08-16",
+      "category": "actors",
+      "profession": "Pianist",
+      "nationality": "Welsh",
+      "bio": "Skyler Torres is a Welsh pianist.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "skylertorres"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "reese-sanchez-7",
+      "name": "Reese Sanchez",
+      "birthDate": "1967-03-06",
+      "category": "actors",
+      "profession": "Investor",
+      "nationality": "Spanish",
+      "bio": "Reese Sanchez is a Spanish investor.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "reesesanchez"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ulysses-morgan-8",
+      "name": "Ulysses Morgan",
+      "birthDate": "1990-03-16",
+      "category": "actors",
+      "profession": "Teacher",
+      "nationality": "Croatian",
+      "bio": "Ulysses Morgan is a Croatian teacher.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "ulyssesmorgan"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "oliver-robinson-9",
+      "name": "Oliver Robinson",
+      "birthDate": "1956-08-01",
+      "category": "actors",
+      "profession": "Teacher",
+      "nationality": "Spanish",
+      "bio": "Oliver Robinson is a Spanish teacher.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "oliverrobinson"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "carson-morris-10",
+      "name": "Carson Morris",
+      "birthDate": "2004-06-28",
+      "category": "actors",
+      "profession": "Boxer",
+      "nationality": "Australian",
+      "bio": "Carson Morris is a Australian boxer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "carsonmorris"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aaron-sanchez-11",
+      "name": "Aaron Sanchez",
+      "birthDate": "1989-02-15",
+      "category": "actors",
+      "profession": "Athlete",
+      "nationality": "American",
+      "bio": "Aaron Sanchez is a American athlete.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "aaronsanchez"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-ramos-12",
+      "name": "Emery Ramos",
+      "birthDate": "1999-06-18",
+      "category": "actors",
+      "profession": "Dancer",
+      "nationality": "Czech",
+      "bio": "Emery Ramos is a Czech dancer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "emeryramos"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "harper-kelly-13",
+      "name": "Harper Kelly",
+      "birthDate": "1977-09-21",
+      "category": "actors",
+      "profession": "Doctor",
+      "nationality": "Venezuelan",
+      "bio": "Harper Kelly is a Venezuelan doctor.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "harperkelly"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kendall-wright-14",
+      "name": "Kendall Wright",
+      "birthDate": "2001-12-29",
+      "category": "actors",
+      "profession": "Singer",
+      "nationality": "Peruvian",
+      "bio": "Kendall Wright is a Peruvian singer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "kendallwright"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "mason-walker-15",
+      "name": "Mason Walker",
+      "birthDate": "1961-07-27",
+      "category": "actors",
+      "profession": "Director",
+      "nationality": "Japanese",
+      "bio": "Mason Walker is a Japanese director.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "masonwalker"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "willow-lopez-16",
+      "name": "Willow Lopez",
+      "birthDate": "1973-07-09",
+      "category": "actors",
+      "profession": "Entrepreneur",
+      "nationality": "German",
+      "bio": "Willow Lopez is a German entrepreneur.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "willowlopez"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-young-17",
+      "name": "Charlie Young",
+      "birthDate": "2006-10-29",
+      "category": "actors",
+      "profession": "Podcaster",
+      "nationality": "Australian",
+      "bio": "Charlie Young is a Australian podcaster.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "charlieyoung"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ellis-reed-18",
+      "name": "Ellis Reed",
+      "birthDate": "1976-01-15",
+      "category": "actors",
+      "profession": "Podcaster",
+      "nationality": "Bulgarian",
+      "bio": "Ellis Reed is a Bulgarian podcaster.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "ellisreed"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "gavin-edwards-19",
+      "name": "Gavin Edwards",
+      "birthDate": "1995-06-08",
+      "category": "actors",
+      "profession": "Director",
+      "nationality": "Russian",
+      "bio": "Gavin Edwards is a Russian director.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "gavinedwards"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yara-edwards-20",
+      "name": "Yara Edwards",
+      "birthDate": "1989-03-19",
+      "category": "actors",
+      "profession": "Basketball Player",
+      "nationality": "Chinese",
+      "bio": "Yara Edwards is a Chinese basketball player.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "yaraedwards"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "felix-thomas-21",
+      "name": "Felix Thomas",
+      "birthDate": "1966-05-02",
+      "category": "actors",
+      "profession": "Designer",
+      "nationality": "German",
+      "bio": "Felix Thomas is a German designer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "felixthomas"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zion-allen-22",
+      "name": "Zion Allen",
+      "birthDate": "2007-06-10",
+      "category": "actors",
+      "profession": "Guitarist",
+      "nationality": "Welsh",
+      "bio": "Zion Allen is a Welsh guitarist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "zionallen"
+      },
+      "achievements": [
+        "Guitarist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-bailey-23",
+      "name": "Quinn Bailey",
+      "birthDate": "1968-03-24",
+      "category": "actors",
+      "profession": "Artist",
+      "nationality": "German",
+      "bio": "Quinn Bailey is a German artist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "quinnbailey"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-garcia-24",
+      "name": "Yuki Garcia",
+      "birthDate": "2010-10-01",
+      "category": "actors",
+      "profession": "Drummer",
+      "nationality": "Dutch",
+      "bio": "Yuki Garcia is a Dutch drummer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "yukigarcia"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-flores-25",
+      "name": "Sage Flores",
+      "birthDate": "1954-07-12",
+      "category": "actors",
+      "profession": "Activist",
+      "nationality": "Bulgarian",
+      "bio": "Sage Flores is a Bulgarian activist.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "sageflores"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "vera-jones-26",
+      "name": "Vera Jones",
+      "birthDate": "1976-02-28",
+      "category": "actors",
+      "profession": "Writer",
+      "nationality": "Portuguese",
+      "bio": "Vera Jones is a Portuguese writer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "verajones"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yara-edwards-27",
+      "name": "Yara Edwards",
+      "birthDate": "1970-10-08",
+      "category": "actors",
+      "profession": "Boxer",
+      "nationality": "Serbian",
+      "bio": "Yara Edwards is a Serbian boxer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "yaraedwards"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yara-anderson-28",
+      "name": "Yara Anderson",
+      "birthDate": "2004-09-26",
+      "category": "actors",
+      "profession": "Singer",
+      "nationality": "Mexican",
+      "bio": "Yara Anderson is a Mexican singer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "yaraanderson"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "carson-peterson-29",
+      "name": "Carson Peterson",
+      "birthDate": "1985-03-14",
+      "category": "actors",
+      "profession": "Journalist",
+      "nationality": "Turkish",
+      "bio": "Carson Peterson is a Turkish journalist.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "carsonpeterson"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-hernandez-30",
+      "name": "Tatum Hernandez",
+      "birthDate": "1978-03-25",
+      "category": "actors",
+      "profession": "Chef",
+      "nationality": "Russian",
+      "bio": "Tatum Hernandez is a Russian chef.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "tatumhernandez"
+      },
+      "achievements": [
+        "Chef of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-stewart-31",
+      "name": "Paige Stewart",
+      "birthDate": "1984-01-22",
+      "category": "actors",
+      "profession": "Activist",
+      "nationality": "American",
+      "bio": "Paige Stewart is a American activist.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "paigestewart"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zion-parker-32",
+      "name": "Zion Parker",
+      "birthDate": "1990-04-16",
+      "category": "actors",
+      "profession": "Artist",
+      "nationality": "Turkish",
+      "bio": "Zion Parker is a Turkish artist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "zionparker"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dana-diaz-33",
+      "name": "Dana Diaz",
+      "birthDate": "1998-05-04",
+      "category": "actors",
+      "profession": "Model",
+      "nationality": "Brazilian",
+      "bio": "Dana Diaz is a Brazilian model.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "danadiaz"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ulysses-williams-34",
+      "name": "Ulysses Williams",
+      "birthDate": "1968-04-29",
+      "category": "actors",
+      "profession": "Investor",
+      "nationality": "Italian",
+      "bio": "Ulysses Williams is a Italian investor.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "ulysseswilliams"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-peterson-35",
+      "name": "Quinn Peterson",
+      "birthDate": "2009-06-23",
+      "category": "actors",
+      "profession": "Composer",
+      "nationality": "Belgian",
+      "bio": "Quinn Peterson is a Belgian composer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "quinnpeterson"
+      },
+      "achievements": [
+        "Composer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-morgan-36",
+      "name": "Ashton Morgan",
+      "birthDate": "1953-01-31",
+      "category": "actors",
+      "profession": "Model",
+      "nationality": "Korean",
+      "bio": "Ashton Morgan is a Korean model.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "ashtonmorgan"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kendall-ramirez-37",
+      "name": "Kendall Ramirez",
+      "birthDate": "2007-11-21",
+      "category": "actors",
+      "profession": "Author",
+      "nationality": "Czech",
+      "bio": "Kendall Ramirez is a Czech author.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "kendallramirez"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-murphy-38",
+      "name": "Quinn Murphy",
+      "birthDate": "1961-04-04",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Austrian",
+      "bio": "Quinn Murphy is a Austrian actor.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "quinnmurphy"
+      },
+      "achievements": [
+        "Actor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "peyton-parker-39",
+      "name": "Peyton Parker",
+      "birthDate": "1985-05-29",
+      "category": "actors",
+      "profession": "Musician",
+      "nationality": "Norwegian",
+      "bio": "Peyton Parker is a Norwegian musician.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "peytonparker"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "max-stewart-40",
+      "name": "Max Stewart",
+      "birthDate": "1956-11-27",
+      "category": "actors",
+      "profession": "Musician",
+      "nationality": "Bulgarian",
+      "bio": "Max Stewart is a Bulgarian musician.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "maxstewart"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aubrey-ramirez-41",
+      "name": "Aubrey Ramirez",
+      "birthDate": "1953-05-01",
+      "category": "actors",
+      "profession": "Dancer",
+      "nationality": "Turkish",
+      "bio": "Aubrey Ramirez is a Turkish dancer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "aubreyramirez"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "felix-brown-42",
+      "name": "Felix Brown",
+      "birthDate": "2003-03-16",
+      "category": "actors",
+      "profession": "Consultant",
+      "nationality": "Canadian",
+      "bio": "Felix Brown is a Canadian consultant.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "felixbrown"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "river-evans-43",
+      "name": "River Evans",
+      "birthDate": "1968-05-23",
+      "category": "actors",
+      "profession": "Designer",
+      "nationality": "German",
+      "bio": "River Evans is a German designer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "riverevans"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hayden-williams-44",
+      "name": "Hayden Williams",
+      "birthDate": "1959-11-04",
+      "category": "actors",
+      "profession": "Analyst",
+      "nationality": "Turkish",
+      "bio": "Hayden Williams is a Turkish analyst.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "haydenwilliams"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "uma-baker-45",
+      "name": "Uma Baker",
+      "birthDate": "1992-11-21",
+      "category": "actors",
+      "profession": "Basketball Player",
+      "nationality": "Venezuelan",
+      "bio": "Uma Baker is a Venezuelan basketball player.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "umabaker"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-walker-46",
+      "name": "Tatum Walker",
+      "birthDate": "1990-04-27",
+      "category": "actors",
+      "profession": "Drummer",
+      "nationality": "German",
+      "bio": "Tatum Walker is a German drummer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "tatumwalker"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "owen-nguyen-47",
+      "name": "Owen Nguyen",
+      "birthDate": "1979-08-25",
+      "category": "actors",
+      "profession": "Swimmer",
+      "nationality": "Chinese",
+      "bio": "Owen Nguyen is a Chinese swimmer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "owennguyen"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kyle-harris-48",
+      "name": "Kyle Harris",
+      "birthDate": "1975-06-24",
+      "category": "actors",
+      "profession": "Analyst",
+      "nationality": "Norwegian",
+      "bio": "Kyle Harris is a Norwegian analyst.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "kyleharris"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nova-green-49",
+      "name": "Nova Green",
+      "birthDate": "1982-09-30",
+      "category": "actors",
+      "profession": "MMA Fighter",
+      "nationality": "Turkish",
+      "bio": "Nova Green is a Turkish mma fighter.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "novagreen"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "beth-hernandez-50",
+      "name": "Beth Hernandez",
+      "birthDate": "1986-02-18",
+      "category": "actors",
+      "profession": "MMA Fighter",
+      "nationality": "Romanian",
+      "bio": "Beth Hernandez is a Romanian mma fighter.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "bethhernandez"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jade-ramos-51",
+      "name": "Jade Ramos",
+      "birthDate": "1976-11-04",
+      "category": "actors",
+      "profession": "CEO",
+      "nationality": "Japanese",
+      "bio": "Jade Ramos is a Japanese ceo.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "jaderamos"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "fiona-young-52",
+      "name": "Fiona Young",
+      "birthDate": "1997-11-14",
+      "category": "actors",
+      "profession": "Doctor",
+      "nationality": "Austrian",
+      "bio": "Fiona Young is a Austrian doctor.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "fionayoung"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jordan-rodriguez-53",
+      "name": "Jordan Rodriguez",
+      "birthDate": "1989-07-15",
+      "category": "actors",
+      "profession": "Photographer",
+      "nationality": "Austrian",
+      "bio": "Jordan Rodriguez is a Austrian photographer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "jordanrodriguez"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ethan-scott-54",
+      "name": "Ethan Scott",
+      "birthDate": "1966-10-30",
+      "category": "actors",
+      "profession": "Teacher",
+      "nationality": "Japanese",
+      "bio": "Ethan Scott is a Japanese teacher.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "ethanscott"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hunter-flores-55",
+      "name": "Hunter Flores",
+      "birthDate": "1977-01-30",
+      "category": "actors",
+      "profession": "Dancer",
+      "nationality": "Spanish",
+      "bio": "Hunter Flores is a Spanish dancer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "hunterflores"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "felix-gomez-56",
+      "name": "Felix Gomez",
+      "birthDate": "1983-09-04",
+      "category": "actors",
+      "profession": "Choreographer",
+      "nationality": "Peruvian",
+      "bio": "Felix Gomez is a Peruvian choreographer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "felixgomez"
+      },
+      "achievements": [
+        "Choreographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kyle-moore-57",
+      "name": "Kyle Moore",
+      "birthDate": "1973-05-13",
+      "category": "actors",
+      "profession": "Musician",
+      "nationality": "Swiss",
+      "bio": "Kyle Moore is a Swiss musician.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "kylemoore"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-hernandez-58",
+      "name": "Casey Hernandez",
+      "birthDate": "1952-09-24",
+      "category": "actors",
+      "profession": "Comedian",
+      "nationality": "Norwegian",
+      "bio": "Casey Hernandez is a Norwegian comedian.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "caseyhernandez"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "adrian-torres-59",
+      "name": "Adrian Torres",
+      "birthDate": "1965-12-27",
+      "category": "actors",
+      "profession": "Musician",
+      "nationality": "Polish",
+      "bio": "Adrian Torres is a Polish musician.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "adriantorres"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-martinez-60",
+      "name": "Quinn Martinez",
+      "birthDate": "1985-04-05",
+      "category": "actors",
+      "profession": "Podcaster",
+      "nationality": "Brazilian",
+      "bio": "Quinn Martinez is a Brazilian podcaster.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "quinnmartinez"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-lopez-61",
+      "name": "Yuki Lopez",
+      "birthDate": "1968-11-18",
+      "category": "actors",
+      "profession": "Doctor",
+      "nationality": "Argentinian",
+      "bio": "Yuki Lopez is a Argentinian doctor.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "yukilopez"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "beth-perez-62",
+      "name": "Beth Perez",
+      "birthDate": "2001-04-25",
+      "category": "actors",
+      "profession": "Comedian",
+      "nationality": "Mexican",
+      "bio": "Beth Perez is a Mexican comedian.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "bethperez"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "phoenix-young-63",
+      "name": "Phoenix Young",
+      "birthDate": "1975-03-19",
+      "category": "actors",
+      "profession": "CEO",
+      "nationality": "Chilean",
+      "bio": "Phoenix Young is a Chilean ceo.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "phoenixyoung"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-mitchell-64",
+      "name": "Drew Mitchell",
+      "birthDate": "1984-04-18",
+      "category": "actors",
+      "profession": "Drummer",
+      "nationality": "Italian",
+      "bio": "Drew Mitchell is a Italian drummer.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "drewmitchell"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-clark-65",
+      "name": "Yuki Clark",
+      "birthDate": "1997-01-23",
+      "category": "actors",
+      "profession": "Tennis Player",
+      "nationality": "Chilean",
+      "bio": "Yuki Clark is a Chilean tennis player.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "yukiclark"
+      },
+      "achievements": [
+        "Tennis Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "lily-ortiz-66",
+      "name": "Lily Ortiz",
+      "birthDate": "1998-08-17",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "French",
+      "bio": "Lily Ortiz is a French actress.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "lilyortiz"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-lopez-67",
+      "name": "Casey Lopez",
+      "birthDate": "1995-02-07",
+      "category": "actors",
+      "profession": "Entrepreneur",
+      "nationality": "Swiss",
+      "bio": "Casey Lopez is a Swiss entrepreneur.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "caseylopez"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-gonzalez-68",
+      "name": "Tatum Gonzalez",
+      "birthDate": "1952-11-20",
+      "category": "actors",
+      "profession": "Rapper",
+      "nationality": "Bulgarian",
+      "bio": "Tatum Gonzalez is a Bulgarian rapper.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "tatumgonzalez"
+      },
+      "achievements": [
+        "Rapper of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "caleb-thompson-69",
+      "name": "Caleb Thompson",
+      "birthDate": "1962-03-21",
+      "category": "actors",
+      "profession": "Athlete",
+      "nationality": "Welsh",
+      "bio": "Caleb Thompson is a Welsh athlete.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "calebthompson"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "uma-ramirez-70",
+      "name": "Uma Ramirez",
+      "birthDate": "1969-08-13",
+      "category": "actors",
+      "profession": "Swimmer",
+      "nationality": "German",
+      "bio": "Uma Ramirez is a German swimmer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "umaramirez"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sam-flores-71",
+      "name": "Sam Flores",
+      "birthDate": "1963-04-20",
+      "category": "actors",
+      "profession": "CEO",
+      "nationality": "Colombian",
+      "bio": "Sam Flores is a Colombian ceo.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "samflores"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sam-perez-72",
+      "name": "Sam Perez",
+      "birthDate": "1958-10-03",
+      "category": "actors",
+      "profession": "Teacher",
+      "nationality": "Japanese",
+      "bio": "Sam Perez is a Japanese teacher.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "samperez"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "alex-reed-73",
+      "name": "Alex Reed",
+      "birthDate": "1981-01-03",
+      "category": "actors",
+      "profession": "Dancer",
+      "nationality": "British",
+      "bio": "Alex Reed is a British dancer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "alexreed"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-phillips-74",
+      "name": "Skyler Phillips",
+      "birthDate": "1971-01-21",
+      "category": "actors",
+      "profession": "Athlete",
+      "nationality": "Serbian",
+      "bio": "Skyler Phillips is a Serbian athlete.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "skylerphillips"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-gutierrez-75",
+      "name": "Casey Gutierrez",
+      "birthDate": "1964-06-25",
+      "category": "actors",
+      "profession": "Athlete",
+      "nationality": "Belgian",
+      "bio": "Casey Gutierrez is a Belgian athlete.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "caseygutierrez"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "paige-ramirez-76",
+      "name": "Paige Ramirez",
+      "birthDate": "1998-11-21",
+      "category": "actors",
+      "profession": "Analyst",
+      "nationality": "Peruvian",
+      "bio": "Paige Ramirez is a Peruvian analyst.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "paigeramirez"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sydney-gutierrez-77",
+      "name": "Sydney Gutierrez",
+      "birthDate": "1995-11-26",
+      "category": "actors",
+      "profession": "Scientist",
+      "nationality": "Spanish",
+      "bio": "Sydney Gutierrez is a Spanish scientist.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "sydneygutierrez"
+      },
+      "achievements": [
+        "Scientist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dallas-murphy-78",
+      "name": "Dallas Murphy",
+      "birthDate": "1988-03-19",
+      "category": "actors",
+      "profession": "Producer",
+      "nationality": "Welsh",
+      "bio": "Dallas Murphy is a Welsh producer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "dallasmurphy"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-collins-79",
+      "name": "Emery Collins",
+      "birthDate": "1960-05-27",
+      "category": "actors",
+      "profession": "Drummer",
+      "nationality": "French",
+      "bio": "Emery Collins is a French drummer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "emerycollins"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jade-evans-80",
+      "name": "Jade Evans",
+      "birthDate": "1986-03-31",
+      "category": "actors",
+      "profession": "Rapper",
+      "nationality": "Russian",
+      "bio": "Jade Evans is a Russian rapper.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "jadeevans"
+      },
+      "achievements": [
+        "Rapper of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "violet-rivera-81",
+      "name": "Violet Rivera",
+      "birthDate": "1977-06-22",
+      "category": "actors",
+      "profession": "Designer",
+      "nationality": "Austrian",
+      "bio": "Violet Rivera is a Austrian designer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "violetrivera"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "owen-rogers-82",
+      "name": "Owen Rogers",
+      "birthDate": "1979-09-20",
+      "category": "actors",
+      "profession": "Boxer",
+      "nationality": "Belgian",
+      "bio": "Owen Rogers is a Belgian boxer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "owenrogers"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-nguyen-83",
+      "name": "Ashton Nguyen",
+      "birthDate": "1979-10-29",
+      "category": "actors",
+      "profession": "Activist",
+      "nationality": "Portuguese",
+      "bio": "Ashton Nguyen is a Portuguese activist.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "ashtonnguyen"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zoe-morgan-84",
+      "name": "Zoe Morgan",
+      "birthDate": "1993-04-01",
+      "category": "actors",
+      "profession": "Journalist",
+      "nationality": "Chinese",
+      "bio": "Zoe Morgan is a Chinese journalist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "zoemorgan"
+      },
+      "achievements": [
+        "Journalist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "finley-cook-85",
+      "name": "Finley Cook",
+      "birthDate": "1956-05-30",
+      "category": "actors",
+      "profession": "Pianist",
+      "nationality": "Irish",
+      "bio": "Finley Cook is a Irish pianist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "finleycook"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-carter-86",
+      "name": "Ashton Carter",
+      "birthDate": "1991-01-28",
+      "category": "actors",
+      "profession": "Guitarist",
+      "nationality": "Austrian",
+      "bio": "Ashton Carter is a Austrian guitarist.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "ashtoncarter"
+      },
+      "achievements": [
+        "Guitarist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-ortiz-87",
+      "name": "Tatum Ortiz",
+      "birthDate": "1997-06-12",
+      "category": "actors",
+      "profession": "Pianist",
+      "nationality": "British",
+      "bio": "Tatum Ortiz is a British pianist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "tatumortiz"
+      },
+      "achievements": [
+        "Pianist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "violet-reyes-88",
+      "name": "Violet Reyes",
+      "birthDate": "1972-07-05",
+      "category": "actors",
+      "profession": "Bassist",
+      "nationality": "Canadian",
+      "bio": "Violet Reyes is a Canadian bassist.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "violetreyes"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-rogers-89",
+      "name": "Sage Rogers",
+      "birthDate": "1953-10-17",
+      "category": "actors",
+      "profession": "Investor",
+      "nationality": "Belgian",
+      "bio": "Sage Rogers is a Belgian investor.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "sagerogers"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tara-diaz-90",
+      "name": "Tara Diaz",
+      "birthDate": "1985-11-21",
+      "category": "actors",
+      "profession": "Swimmer",
+      "nationality": "Japanese",
+      "bio": "Tara Diaz is a Japanese swimmer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "taradiaz"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ethan-wright-91",
+      "name": "Ethan Wright",
+      "birthDate": "1955-07-23",
+      "category": "actors",
+      "profession": "Influencer",
+      "nationality": "Brazilian",
+      "bio": "Ethan Wright is a Brazilian influencer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "ethanwright"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "morgan-rivera-92",
+      "name": "Morgan Rivera",
+      "birthDate": "1983-12-18",
+      "category": "actors",
+      "profession": "Professor",
+      "nationality": "Austrian",
+      "bio": "Morgan Rivera is a Austrian professor.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "morganrivera"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "drew-ward-93",
+      "name": "Drew Ward",
+      "birthDate": "1992-05-30",
+      "category": "actors",
+      "profession": "Teacher",
+      "nationality": "Venezuelan",
+      "bio": "Drew Ward is a Venezuelan teacher.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "drewward"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "isaac-davis-94",
+      "name": "Isaac Davis",
+      "birthDate": "1992-10-02",
+      "category": "actors",
+      "profession": "CEO",
+      "nationality": "American",
+      "bio": "Isaac Davis is a American ceo.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "isaacdavis"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-morris-95",
+      "name": "Tatum Morris",
+      "birthDate": "1951-02-26",
+      "category": "actors",
+      "profession": "Dancer",
+      "nationality": "Ukrainian",
+      "bio": "Tatum Morris is a Ukrainian dancer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "tatummorris"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xara-scott-96",
+      "name": "Xara Scott",
+      "birthDate": "2005-10-04",
+      "category": "actors",
+      "profession": "Director",
+      "nationality": "Chilean",
+      "bio": "Xara Scott is a Chilean director.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "xarascott"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-kelly-97",
+      "name": "Skyler Kelly",
+      "birthDate": "1981-03-18",
+      "category": "actors",
+      "profession": "Investor",
+      "nationality": "Mexican",
+      "bio": "Skyler Kelly is a Mexican investor.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "skylerkelly"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "wade-lee-98",
+      "name": "Wade Lee",
+      "birthDate": "1967-11-08",
+      "category": "actors",
+      "profession": "Athlete",
+      "nationality": "South African",
+      "bio": "Wade Lee is a South African athlete.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "wadelee"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "willow-ortiz-99",
+      "name": "Willow Ortiz",
+      "birthDate": "1956-02-27",
+      "category": "actors",
+      "profession": "Producer",
+      "nationality": "Italian",
+      "bio": "Willow Ortiz is a Italian producer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "willowortiz"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-robinson-100",
+      "name": "Tatum Robinson",
+      "birthDate": "1955-01-12",
+      "category": "actors",
+      "profession": "Activist",
+      "nationality": "Norwegian",
+      "bio": "Tatum Robinson is a Norwegian activist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "tatumrobinson"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "amitabh-bachchan-indian-1",
+      "name": "Amitabh Bachchan",
+      "birthDate": "1942-10-11",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Legendary Bollywood actor known as the 'Big B' of Indian cinema.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "amitabhbachchan",
+        "twitter": "amitabhbachchan",
+        "youtube": "amitabhbachchan"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "shah-rukh-khan-indian-2",
+      "name": "Shah Rukh Khan",
+      "birthDate": "1965-11-02",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "King of Bollywood and one of the most successful actors in Indian cinema.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "shahrukhkhan",
+        "twitter": "shahrukhkhan",
+        "youtube": "shahrukhkhan"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "aamir-khan-indian-3",
+      "name": "Aamir Khan",
+      "birthDate": "1965-03-14",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Perfectionist actor known for his method acting and social message films.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "aamirkhan",
+        "twitter": "aamirkhan",
+        "youtube": "aamirkhan"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "salman-khan-indian-4",
+      "name": "Salman Khan",
+      "birthDate": "1965-12-27",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Bollywood superstar known for his action and romance films.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "salmankhan",
+        "twitter": "salmankhan",
+        "youtube": "salmankhan"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "hrithik-roshan-indian-5",
+      "name": "Hrithik Roshan",
+      "birthDate": "1974-01-10",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Greek God of Bollywood known for his dancing and acting skills.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "hrithikroshan",
+        "twitter": "hrithikroshan",
+        "youtube": "hrithikroshan"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "ranbir-kapoor-indian-6",
+      "name": "Ranbir Kapoor",
+      "birthDate": "1982-09-28",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Versatile actor from the Kapoor family dynasty.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "ranbirkapoor",
+        "twitter": "ranbirkapoor",
+        "youtube": "ranbirkapoor"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "ranveer-singh-indian-7",
+      "name": "Ranveer Singh",
+      "birthDate": "1985-07-06",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Energetic actor known for his flamboyant personality and diverse roles.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "ranveersingh",
+        "twitter": "ranveersingh",
+        "youtube": "ranveersingh"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "varun-dhawan-indian-8",
+      "name": "Varun Dhawan",
+      "birthDate": "1987-04-24",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Popular Bollywood actor known for his commercial entertainers.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "varundhawan",
+        "twitter": "varundhawan",
+        "youtube": "varundhawan"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "ayushmann-khurrana-indian-9",
+      "name": "Ayushmann Khurrana",
+      "birthDate": "1984-09-14",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Content-driven actor known for his unconventional film choices.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "ayushmannkhurrana",
+        "twitter": "ayushmannkhurrana",
+        "youtube": "ayushmannkhurrana"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "rajkummar-rao-indian-10",
+      "name": "Rajkummar Rao",
+      "birthDate": "1984-08-31",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "National Award-winning actor known for his intense performances.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "rajkummarrao",
+        "twitter": "rajkummarrao",
+        "youtube": "rajkummarrao"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "vicky-kaushal-indian-11",
+      "name": "Vicky Kaushal",
+      "birthDate": "1988-05-16",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Rising star known for his powerful performances in diverse roles.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "vickykaushal",
+        "twitter": "vickykaushal",
+        "youtube": "vickykaushal"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "kartik-aaryan-indian-12",
+      "name": "Kartik Aaryan",
+      "birthDate": "1990-11-22",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Young Bollywood actor known for his romantic comedies.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "kartikaaryan",
+        "twitter": "kartikaaryan",
+        "youtube": "kartikaaryan"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sidharth-malhotra-indian-13",
+      "name": "Sidharth Malhotra",
+      "birthDate": "1985-01-16",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Bollywood actor known for his good looks and action roles.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "sidharthmalhotra",
+        "twitter": "sidharthmalhotra",
+        "youtube": "sidharthmalhotra"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "tiger-shroff-indian-14",
+      "name": "Tiger Shroff",
+      "birthDate": "1990-03-02",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Action star known for his martial arts and dancing skills.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "tigershroff",
+        "twitter": "tigershroff",
+        "youtube": "tigershroff"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "arjun-kapoor-indian-15",
+      "name": "Arjun Kapoor",
+      "birthDate": "1985-06-26",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Bollywood actor known for his romantic and action films.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "arjunkapoor",
+        "twitter": "arjunkapoor",
+        "youtube": "arjunkapoor"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "aditya-roy-kapur-indian-16",
+      "name": "Aditya Roy Kapur",
+      "birthDate": "1985-11-16",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Bollywood actor known for his romantic roles and good looks.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "adityaroykapur",
+        "twitter": "adityaroykapur",
+        "youtube": "adityaroykapur"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "sushant-singh-rajput-indian-17",
+      "name": "Sushant Singh Rajput",
+      "birthDate": "1986-01-21",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Talented actor known for his versatile performances and scientific interests.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "sushantsinghrajput",
+        "twitter": "sushantsinghrajput",
+        "youtube": "sushantsinghrajput"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "prabhas-indian-18",
+      "name": "Prabhas",
+      "birthDate": "1979-10-23",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "South Indian superstar known for the Baahubali franchise.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "prabhas",
+        "twitter": "prabhas",
+        "youtube": "prabhas"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "allu-arjun-indian-19",
+      "name": "Allu Arjun",
+      "birthDate": "1983-04-08",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Tollywood superstar known for his dancing and style.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "alluarjun",
+        "twitter": "alluarjun",
+        "youtube": "alluarjun"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "vijay-indian-20",
+      "name": "Vijay",
+      "birthDate": "1974-06-22",
+      "category": "actors",
+      "profession": "Actor",
+      "nationality": "Indian",
+      "bio": "Tamil cinema superstar known as 'Thalapathy' Vijay.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "vijay",
+        "twitter": "vijay",
+        "youtube": "vijay"
+      },
+      "achievements": [
+        "Actor of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "triptii-dimri-actress-1",
+      "name": "Triptii Dimri",
+      "birthDate": "1994-02-23",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Rising Bollywood actress known for her versatile performances.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "triptiidimri",
+        "twitter": "triptiidimri",
+        "youtube": "triptiidimri"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kriti-sanon-actress-2",
+      "name": "Kriti Sanon",
+      "birthDate": "1990-07-27",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Popular Bollywood actress known for her beauty and acting skills.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "kritisanon",
+        "twitter": "kritisanon",
+        "youtube": "kritisanon"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "deepika-padukone-actress-3",
+      "name": "Deepika Padukone",
+      "birthDate": "1986-01-05",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Leading Bollywood actress and one of the highest-paid actresses in India.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "deepikapadukone",
+        "twitter": "deepikapadukone",
+        "youtube": "deepikapadukone"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "shraddha-kapoor-actress-4",
+      "name": "Shraddha Kapoor",
+      "birthDate": "1987-03-03",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Popular Bollywood actress known for her singing and acting abilities.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "shraddhakapoor",
+        "twitter": "shraddhakapoor",
+        "youtube": "shraddhakapoor"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sharvari-wagh-actress-5",
+      "name": "Sharvari Wagh",
+      "birthDate": "1996-06-14",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Young Bollywood actress making her mark in the industry.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "sharvariwagh",
+        "twitter": "sharvariwagh",
+        "youtube": "sharvariwagh"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "alia-bhatt-actress-6",
+      "name": "Alia Bhatt",
+      "birthDate": "1993-03-15",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Award-winning Bollywood actress known for her natural acting.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "aliabhatt",
+        "twitter": "aliabhatt",
+        "youtube": "aliabhatt"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aishwarya-rai-bachchan-actress-7",
+      "name": "Aishwarya Rai Bachchan",
+      "birthDate": "1973-11-01",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Former Miss World and one of the most beautiful actresses in Bollywood.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "aishwaryaraibachchan",
+        "twitter": "aishwaryaraibachchan",
+        "youtube": "aishwaryaraibachchan"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "samantha-ruth-prabhu-actress-8",
+      "name": "Samantha Ruth Prabhu",
+      "birthDate": "1987-04-28",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Popular South Indian actress who has worked in Tamil and Telugu films.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "samantharuthprabhu",
+        "twitter": "samantharuthprabhu",
+        "youtube": "samantharuthprabhu"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kareena-kapoor-khan-actress-9",
+      "name": "Kareena Kapoor Khan",
+      "birthDate": "1980-09-21",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Bollywood diva known for her glamorous roles and fashion sense.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "kareenakapoorkhan",
+        "twitter": "kareenakapoorkhan",
+        "youtube": "kareenakapoorkhan"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "janhvi-kapoor-actress-10",
+      "name": "Janhvi Kapoor",
+      "birthDate": "1997-03-06",
+      "category": "actors",
+      "profession": "Actress",
+      "nationality": "Indian",
+      "bio": "Young Bollywood actress and daughter of late Sridevi.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "janhvikapoor",
+        "twitter": "janhvikapoor",
+        "youtube": "janhvikapoor"
+      },
+      "achievements": [
+        "Actress of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ],
+      "isActive": true
+    }
+  ],
+  "count": 130
+}

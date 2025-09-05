@@ -1,0 +1,2108 @@
+{
+  "category": "scientists",
+  "label": "Scientists & Intellectuals",
+  "icon": "🔬",
+  "celebrities": [
+    {
+      "id": "brooklyn-sanchez-1",
+      "name": "Brooklyn Sanchez",
+      "birthDate": "1991-05-19",
+      "category": "scientists",
+      "profession": "Boxer",
+      "nationality": "Hungarian",
+      "bio": "Brooklyn Sanchez is a Hungarian boxer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "brooklynsanchez"
+      },
+      "achievements": [
+        "Boxer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zoe-thomas-2",
+      "name": "Zoe Thomas",
+      "birthDate": "1965-07-09",
+      "category": "scientists",
+      "profession": "Consultant",
+      "nationality": "Chinese",
+      "bio": "Zoe Thomas is a Chinese consultant.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "zoethomas"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-lee-3",
+      "name": "Casey Lee",
+      "birthDate": "1960-07-14",
+      "category": "scientists",
+      "profession": "Designer",
+      "nationality": "Japanese",
+      "bio": "Casey Lee is a Japanese designer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "caseylee"
+      },
+      "achievements": [
+        "Designer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-ortiz-4",
+      "name": "Brooklyn Ortiz",
+      "birthDate": "1961-11-06",
+      "category": "scientists",
+      "profession": "MMA Fighter",
+      "nationality": "Polish",
+      "bio": "Brooklyn Ortiz is a Polish mma fighter.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "brooklynortiz"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-martinez-5",
+      "name": "Casey Martinez",
+      "birthDate": "1966-09-19",
+      "category": "scientists",
+      "profession": "Producer",
+      "nationality": "Russian",
+      "bio": "Casey Martinez is a Russian producer.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "caseymartinez"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "uma-campbell-6",
+      "name": "Uma Campbell",
+      "birthDate": "1973-07-20",
+      "category": "scientists",
+      "profession": "Writer",
+      "nationality": "Belgian",
+      "bio": "Uma Campbell is a Belgian writer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "umacampbell"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aubrey-carter-7",
+      "name": "Aubrey Carter",
+      "birthDate": "1958-05-07",
+      "category": "scientists",
+      "profession": "Writer",
+      "nationality": "Greek",
+      "bio": "Aubrey Carter is a Greek writer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "aubreycarter"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ulysses-thomas-8",
+      "name": "Ulysses Thomas",
+      "birthDate": "2007-06-30",
+      "category": "scientists",
+      "profession": "Actress",
+      "nationality": "Austrian",
+      "bio": "Ulysses Thomas is a Austrian actress.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "ulyssesthomas"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-ortiz-9",
+      "name": "Brooklyn Ortiz",
+      "birthDate": "1968-11-07",
+      "category": "scientists",
+      "profession": "Musician",
+      "nationality": "Swedish",
+      "bio": "Brooklyn Ortiz is a Swedish musician.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "brooklynortiz"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xander-lopez-10",
+      "name": "Xander Lopez",
+      "birthDate": "1991-02-04",
+      "category": "scientists",
+      "profession": "Writer",
+      "nationality": "Dutch",
+      "bio": "Xander Lopez is a Dutch writer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "xanderlopez"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ari-torres-11",
+      "name": "Ari Torres",
+      "birthDate": "1982-12-28",
+      "category": "scientists",
+      "profession": "Artist",
+      "nationality": "Turkish",
+      "bio": "Ari Torres is a Turkish artist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "aritorres"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ari-stewart-12",
+      "name": "Ari Stewart",
+      "birthDate": "1987-11-05",
+      "category": "scientists",
+      "profession": "Photographer",
+      "nationality": "Polish",
+      "bio": "Ari Stewart is a Polish photographer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "aristewart"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-anderson-13",
+      "name": "Kai Anderson",
+      "birthDate": "1964-07-30",
+      "category": "scientists",
+      "profession": "Entrepreneur",
+      "nationality": "Indian",
+      "bio": "Kai Anderson is a Indian entrepreneur.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "kaianderson"
+      },
+      "achievements": [
+        "Entrepreneur of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jade-parker-14",
+      "name": "Jade Parker",
+      "birthDate": "1999-09-17",
+      "category": "scientists",
+      "profession": "Runner",
+      "nationality": "Brazilian",
+      "bio": "Jade Parker is a Brazilian runner.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "jadeparker"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "julia-miller-15",
+      "name": "Julia Miller",
+      "birthDate": "1987-12-25",
+      "category": "scientists",
+      "profession": "Singer",
+      "nationality": "Spanish",
+      "bio": "Julia Miller is a Spanish singer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "juliamiller"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "river-sanchez-16",
+      "name": "River Sanchez",
+      "birthDate": "2003-09-13",
+      "category": "scientists",
+      "profession": "Rapper",
+      "nationality": "Italian",
+      "bio": "River Sanchez is a Italian rapper.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "riversanchez"
+      },
+      "achievements": [
+        "Rapper of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "casey-moore-17",
+      "name": "Casey Moore",
+      "birthDate": "2000-02-13",
+      "category": "scientists",
+      "profession": "Swimmer",
+      "nationality": "Irish",
+      "bio": "Casey Moore is a Irish swimmer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "caseymoore"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "luna-ward-18",
+      "name": "Luna Ward",
+      "birthDate": "2007-10-09",
+      "category": "scientists",
+      "profession": "Professor",
+      "nationality": "Scottish",
+      "bio": "Luna Ward is a Scottish professor.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "lunaward"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "carson-diaz-19",
+      "name": "Carson Diaz",
+      "birthDate": "1989-01-04",
+      "category": "scientists",
+      "profession": "Artist",
+      "nationality": "Croatian",
+      "bio": "Carson Diaz is a Croatian artist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "carsondiaz"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "violet-rodriguez-20",
+      "name": "Violet Rodriguez",
+      "birthDate": "1964-06-09",
+      "category": "scientists",
+      "profession": "Footballer",
+      "nationality": "Hungarian",
+      "bio": "Violet Rodriguez is a Hungarian footballer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "violetrodriguez"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "uma-clark-21",
+      "name": "Uma Clark",
+      "birthDate": "1975-09-27",
+      "category": "scientists",
+      "profession": "Consultant",
+      "nationality": "Australian",
+      "bio": "Uma Clark is a Australian consultant.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "umaclark"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "brooklyn-peterson-22",
+      "name": "Brooklyn Peterson",
+      "birthDate": "1980-08-01",
+      "category": "scientists",
+      "profession": "Actress",
+      "nationality": "British",
+      "bio": "Brooklyn Peterson is a British actress.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "brooklynpeterson"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "julia-walker-23",
+      "name": "Julia Walker",
+      "birthDate": "1998-08-25",
+      "category": "scientists",
+      "profession": "MMA Fighter",
+      "nationality": "South African",
+      "bio": "Julia Walker is a South African mma fighter.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "juliawalker"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xara-king-24",
+      "name": "Xara King",
+      "birthDate": "1975-05-14",
+      "category": "scientists",
+      "profession": "Singer",
+      "nationality": "Dutch",
+      "bio": "Xara King is a Dutch singer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "xaraking"
+      },
+      "achievements": [
+        "Singer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kendall-kelly-25",
+      "name": "Kendall Kelly",
+      "birthDate": "1963-05-24",
+      "category": "scientists",
+      "profession": "DJ",
+      "nationality": "Bulgarian",
+      "bio": "Kendall Kelly is a Bulgarian dj.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "kendallkelly"
+      },
+      "achievements": [
+        "DJ of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nina-scott-26",
+      "name": "Nina Scott",
+      "birthDate": "1976-03-08",
+      "category": "scientists",
+      "profession": "Comedian",
+      "nationality": "German",
+      "bio": "Nina Scott is a German comedian.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "ninascott"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "dallas-thompson-27",
+      "name": "Dallas Thompson",
+      "birthDate": "1978-08-12",
+      "category": "scientists",
+      "profession": "Teacher",
+      "nationality": "Russian",
+      "bio": "Dallas Thompson is a Russian teacher.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "dallasthompson"
+      },
+      "achievements": [
+        "Teacher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-cook-28",
+      "name": "Charlie Cook",
+      "birthDate": "1991-06-02",
+      "category": "scientists",
+      "profession": "Investor",
+      "nationality": "Korean",
+      "bio": "Charlie Cook is a Korean investor.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "charliecook"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "mason-torres-29",
+      "name": "Mason Torres",
+      "birthDate": "1999-09-15",
+      "category": "scientists",
+      "profession": "YouTuber",
+      "nationality": "Korean",
+      "bio": "Mason Torres is a Korean youtuber.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "masontorres"
+      },
+      "achievements": [
+        "YouTuber of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "julia-kim-30",
+      "name": "Julia Kim",
+      "birthDate": "1985-12-24",
+      "category": "scientists",
+      "profession": "Podcaster",
+      "nationality": "Polish",
+      "bio": "Julia Kim is a Polish podcaster.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "juliakim"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-clark-31",
+      "name": "Skyler Clark",
+      "birthDate": "1976-05-28",
+      "category": "scientists",
+      "profession": "Comedian",
+      "nationality": "Indian",
+      "bio": "Skyler Clark is a Indian comedian.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "skylerclark"
+      },
+      "achievements": [
+        "Comedian of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "mason-scott-32",
+      "name": "Mason Scott",
+      "birthDate": "1976-09-28",
+      "category": "scientists",
+      "profession": "Analyst",
+      "nationality": "Argentinian",
+      "bio": "Mason Scott is a Argentinian analyst.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "masonscott"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "skyler-gonzalez-33",
+      "name": "Skyler Gonzalez",
+      "birthDate": "1953-08-06",
+      "category": "scientists",
+      "profession": "Investor",
+      "nationality": "Polish",
+      "bio": "Skyler Gonzalez is a Polish investor.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "skylergonzalez"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "luna-taylor-34",
+      "name": "Luna Taylor",
+      "birthDate": "1963-12-24",
+      "category": "scientists",
+      "profession": "Runner",
+      "nationality": "Austrian",
+      "bio": "Luna Taylor is a Austrian runner.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "lunataylor"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xander-campbell-35",
+      "name": "Xander Campbell",
+      "birthDate": "1953-08-20",
+      "category": "scientists",
+      "profession": "Tennis Player",
+      "nationality": "Colombian",
+      "bio": "Xander Campbell is a Colombian tennis player.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "xandercampbell"
+      },
+      "achievements": [
+        "Tennis Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-lee-36",
+      "name": "Sage Lee",
+      "birthDate": "2005-06-07",
+      "category": "scientists",
+      "profession": "Artist",
+      "nationality": "American",
+      "bio": "Sage Lee is a American artist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "sagelee"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "luna-rivera-37",
+      "name": "Luna Rivera",
+      "birthDate": "1953-06-20",
+      "category": "scientists",
+      "profession": "MMA Fighter",
+      "nationality": "Swedish",
+      "bio": "Luna Rivera is a Swedish mma fighter.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "lunarivera"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "morgan-roberts-38",
+      "name": "Morgan Roberts",
+      "birthDate": "2006-01-11",
+      "category": "scientists",
+      "profession": "Drummer",
+      "nationality": "Serbian",
+      "bio": "Morgan Roberts is a Serbian drummer.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "morganroberts"
+      },
+      "achievements": [
+        "Drummer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "wade-moore-39",
+      "name": "Wade Moore",
+      "birthDate": "1976-04-30",
+      "category": "scientists",
+      "profession": "Influencer",
+      "nationality": "Portuguese",
+      "bio": "Wade Moore is a Portuguese influencer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "wademoore"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "riley-thomas-40",
+      "name": "Riley Thomas",
+      "birthDate": "1959-06-11",
+      "category": "scientists",
+      "profession": "Artist",
+      "nationality": "Croatian",
+      "bio": "Riley Thomas is a Croatian artist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "rileythomas"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zion-miller-41",
+      "name": "Zion Miller",
+      "birthDate": "1968-04-19",
+      "category": "scientists",
+      "profession": "Activist",
+      "nationality": "Bulgarian",
+      "bio": "Zion Miller is a Bulgarian activist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "zionmiller"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-morgan-42",
+      "name": "Taylor Morgan",
+      "birthDate": "1952-09-22",
+      "category": "scientists",
+      "profession": "Actor",
+      "nationality": "Peruvian",
+      "bio": "Taylor Morgan is a Peruvian actor.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "taylormorgan"
+      },
+      "achievements": [
+        "Actor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "xara-flores-43",
+      "name": "Xara Flores",
+      "birthDate": "1969-09-28",
+      "category": "scientists",
+      "profession": "Runner",
+      "nationality": "Swiss",
+      "bio": "Xara Flores is a Swiss runner.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "xaraflores"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-reed-44",
+      "name": "Charlie Reed",
+      "birthDate": "2001-02-25",
+      "category": "scientists",
+      "profession": "Chef",
+      "nationality": "Swedish",
+      "bio": "Charlie Reed is a Swedish chef.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "charliereed"
+      },
+      "achievements": [
+        "Chef of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kyle-carter-45",
+      "name": "Kyle Carter",
+      "birthDate": "1973-02-24",
+      "category": "scientists",
+      "profession": "Musician",
+      "nationality": "Welsh",
+      "bio": "Kyle Carter is a Welsh musician.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "kylecarter"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "beth-young-46",
+      "name": "Beth Young",
+      "birthDate": "1967-01-29",
+      "category": "scientists",
+      "profession": "Rapper",
+      "nationality": "Brazilian",
+      "bio": "Beth Young is a Brazilian rapper.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "bethyoung"
+      },
+      "achievements": [
+        "Rapper of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yara-kim-47",
+      "name": "Yara Kim",
+      "birthDate": "1983-07-01",
+      "category": "scientists",
+      "profession": "Director",
+      "nationality": "Colombian",
+      "bio": "Yara Kim is a Colombian director.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "yarakim"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "river-jones-48",
+      "name": "River Jones",
+      "birthDate": "1994-09-12",
+      "category": "scientists",
+      "profession": "Professor",
+      "nationality": "Japanese",
+      "bio": "River Jones is a Japanese professor.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "riverjones"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-miller-49",
+      "name": "Taylor Miller",
+      "birthDate": "1975-11-06",
+      "category": "scientists",
+      "profession": "Researcher",
+      "nationality": "Portuguese",
+      "bio": "Taylor Miller is a Portuguese researcher.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "taylormiller"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "logan-nelson-50",
+      "name": "Logan Nelson",
+      "birthDate": "1993-03-29",
+      "category": "scientists",
+      "profession": "Analyst",
+      "nationality": "Irish",
+      "bio": "Logan Nelson is a Irish analyst.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "logannelson"
+      },
+      "achievements": [
+        "Analyst of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "harper-bailey-51",
+      "name": "Harper Bailey",
+      "birthDate": "1952-12-07",
+      "category": "scientists",
+      "profession": "Composer",
+      "nationality": "French",
+      "bio": "Harper Bailey is a French composer.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "harperbailey"
+      },
+      "achievements": [
+        "Composer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-howard-52",
+      "name": "Taylor Howard",
+      "birthDate": "1997-05-09",
+      "category": "scientists",
+      "profession": "Author",
+      "nationality": "Croatian",
+      "bio": "Taylor Howard is a Croatian author.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "taylorhoward"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-ortiz-53",
+      "name": "Taylor Ortiz",
+      "birthDate": "1960-10-04",
+      "category": "scientists",
+      "profession": "Producer",
+      "nationality": "Swedish",
+      "bio": "Taylor Ortiz is a Swedish producer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "taylorortiz"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "lily-lewis-54",
+      "name": "Lily Lewis",
+      "birthDate": "1979-08-25",
+      "category": "scientists",
+      "profession": "Investor",
+      "nationality": "Scottish",
+      "bio": "Lily Lewis is a Scottish investor.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "lilylewis"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-stewart-55",
+      "name": "Quinn Stewart",
+      "birthDate": "1987-05-28",
+      "category": "scientists",
+      "profession": "Writer",
+      "nationality": "Turkish",
+      "bio": "Quinn Stewart is a Turkish writer.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "quinnstewart"
+      },
+      "achievements": [
+        "Writer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "harper-diaz-56",
+      "name": "Harper Diaz",
+      "birthDate": "1994-02-17",
+      "category": "scientists",
+      "profession": "Author",
+      "nationality": "Greek",
+      "bio": "Harper Diaz is a Greek author.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "harperdiaz"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aubrey-gutierrez-57",
+      "name": "Aubrey Gutierrez",
+      "birthDate": "1968-06-15",
+      "category": "scientists",
+      "profession": "Scientist",
+      "nationality": "Turkish",
+      "bio": "Aubrey Gutierrez is a Turkish scientist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "aubreygutierrez"
+      },
+      "achievements": [
+        "Scientist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "diana-anderson-58",
+      "name": "Diana Anderson",
+      "birthDate": "1968-04-30",
+      "category": "scientists",
+      "profession": "Footballer",
+      "nationality": "Russian",
+      "bio": "Diana Anderson is a Russian footballer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "dianaanderson"
+      },
+      "achievements": [
+        "Footballer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "tatum-rivera-59",
+      "name": "Tatum Rivera",
+      "birthDate": "1956-07-17",
+      "category": "scientists",
+      "profession": "Professor",
+      "nationality": "Serbian",
+      "bio": "Tatum Rivera is a Serbian professor.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "tatumrivera"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-stewart-60",
+      "name": "Taylor Stewart",
+      "birthDate": "1967-02-14",
+      "category": "scientists",
+      "profession": "YouTuber",
+      "nationality": "Colombian",
+      "bio": "Taylor Stewart is a Colombian youtuber.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "taylorstewart"
+      },
+      "achievements": [
+        "YouTuber of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-miller-61",
+      "name": "Yuki Miller",
+      "birthDate": "1954-10-15",
+      "category": "scientists",
+      "profession": "Photographer",
+      "nationality": "Korean",
+      "bio": "Yuki Miller is a Korean photographer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "yukimiller"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "charlie-stewart-62",
+      "name": "Charlie Stewart",
+      "birthDate": "1988-07-08",
+      "category": "scientists",
+      "profession": "CEO",
+      "nationality": "American",
+      "bio": "Charlie Stewart is a American ceo.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "charliestewart"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "phoenix-thompson-63",
+      "name": "Phoenix Thompson",
+      "birthDate": "1952-05-30",
+      "category": "scientists",
+      "profession": "Bassist",
+      "nationality": "Venezuelan",
+      "bio": "Phoenix Thompson is a Venezuelan bassist.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "phoenixthompson"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aaron-torres-64",
+      "name": "Aaron Torres",
+      "birthDate": "1998-03-28",
+      "category": "scientists",
+      "profession": "Artist",
+      "nationality": "British",
+      "bio": "Aaron Torres is a British artist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "aarontorres"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "quinn-gonzalez-65",
+      "name": "Quinn Gonzalez",
+      "birthDate": "1992-10-10",
+      "category": "scientists",
+      "profession": "MMA Fighter",
+      "nationality": "New Zealander",
+      "bio": "Quinn Gonzalez is a New Zealander mma fighter.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "quinngonzalez"
+      },
+      "achievements": [
+        "MMA Fighter of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ashton-ramirez-66",
+      "name": "Ashton Ramirez",
+      "birthDate": "2007-04-16",
+      "category": "scientists",
+      "profession": "Consultant",
+      "nationality": "Norwegian",
+      "bio": "Ashton Ramirez is a Norwegian consultant.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "ashtonramirez"
+      },
+      "achievements": [
+        "Consultant of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jamie-edwards-67",
+      "name": "Jamie Edwards",
+      "birthDate": "1975-08-19",
+      "category": "scientists",
+      "profession": "Professor",
+      "nationality": "Peruvian",
+      "bio": "Jamie Edwards is a Peruvian professor.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "jamieedwards"
+      },
+      "achievements": [
+        "Professor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aaron-lewis-68",
+      "name": "Aaron Lewis",
+      "birthDate": "2000-09-08",
+      "category": "scientists",
+      "profession": "Musician",
+      "nationality": "Hungarian",
+      "bio": "Aaron Lewis is a Hungarian musician.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "aaronlewis"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "fiona-johnson-69",
+      "name": "Fiona Johnson",
+      "birthDate": "1974-04-21",
+      "category": "scientists",
+      "profession": "Streamer",
+      "nationality": "Spanish",
+      "bio": "Fiona Johnson is a Spanish streamer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "fionajohnson"
+      },
+      "achievements": [
+        "Streamer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "diana-lewis-70",
+      "name": "Diana Lewis",
+      "birthDate": "1989-11-13",
+      "category": "scientists",
+      "profession": "Producer",
+      "nationality": "Spanish",
+      "bio": "Diana Lewis is a Spanish producer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "dianalewis"
+      },
+      "achievements": [
+        "Producer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jade-parker-71",
+      "name": "Jade Parker",
+      "birthDate": "1991-09-23",
+      "category": "scientists",
+      "profession": "Podcaster",
+      "nationality": "Polish",
+      "bio": "Jade Parker is a Polish podcaster.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "jadeparker"
+      },
+      "achievements": [
+        "Podcaster of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "phoenix-hall-72",
+      "name": "Phoenix Hall",
+      "birthDate": "1952-01-19",
+      "category": "scientists",
+      "profession": "Doctor",
+      "nationality": "Mexican",
+      "bio": "Phoenix Hall is a Mexican doctor.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "phoenixhall"
+      },
+      "achievements": [
+        "Doctor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-parker-73",
+      "name": "Aiden Parker",
+      "birthDate": "2005-11-16",
+      "category": "scientists",
+      "profession": "CEO",
+      "nationality": "Bulgarian",
+      "bio": "Aiden Parker is a Bulgarian ceo.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "aidenparker"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-ramos-74",
+      "name": "Emery Ramos",
+      "birthDate": "2003-12-09",
+      "category": "scientists",
+      "profession": "Director",
+      "nationality": "Croatian",
+      "bio": "Emery Ramos is a Croatian director.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "emeryramos"
+      },
+      "achievements": [
+        "Director of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nina-howard-75",
+      "name": "Nina Howard",
+      "birthDate": "1962-12-26",
+      "category": "scientists",
+      "profession": "Bassist",
+      "nationality": "Chinese",
+      "bio": "Nina Howard is a Chinese bassist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "ninahoward"
+      },
+      "achievements": [
+        "Bassist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "luna-adams-76",
+      "name": "Luna Adams",
+      "birthDate": "1986-01-11",
+      "category": "scientists",
+      "profession": "Politician",
+      "nationality": "Hungarian",
+      "bio": "Luna Adams is a Hungarian politician.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "lunaadams"
+      },
+      "achievements": [
+        "Politician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "taylor-harris-77",
+      "name": "Taylor Harris",
+      "birthDate": "2005-08-25",
+      "category": "scientists",
+      "profession": "Athlete",
+      "nationality": "Italian",
+      "bio": "Taylor Harris is a Italian athlete.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "taylorharris"
+      },
+      "achievements": [
+        "Athlete of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "phoenix-allen-78",
+      "name": "Phoenix Allen",
+      "birthDate": "1961-06-01",
+      "category": "scientists",
+      "profession": "Actress",
+      "nationality": "American",
+      "bio": "Phoenix Allen is a American actress.",
+      "zodiacSign": "Gemini ♊",
+      "socialMedia": {
+        "instagram": "phoenixallen"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "willow-stewart-79",
+      "name": "Willow Stewart",
+      "birthDate": "2001-12-02",
+      "category": "scientists",
+      "profession": "Scientist",
+      "nationality": "Hungarian",
+      "bio": "Willow Stewart is a Hungarian scientist.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "willowstewart"
+      },
+      "achievements": [
+        "Scientist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "blake-hernandez-80",
+      "name": "Blake Hernandez",
+      "birthDate": "2004-05-07",
+      "category": "scientists",
+      "profession": "Swimmer",
+      "nationality": "Welsh",
+      "bio": "Blake Hernandez is a Welsh swimmer.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "blakehernandez"
+      },
+      "achievements": [
+        "Swimmer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "aiden-hall-81",
+      "name": "Aiden Hall",
+      "birthDate": "1967-10-12",
+      "category": "scientists",
+      "profession": "Artist",
+      "nationality": "New Zealander",
+      "bio": "Aiden Hall is a New Zealander artist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "aidenhall"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "zion-scott-82",
+      "name": "Zion Scott",
+      "birthDate": "1996-05-20",
+      "category": "scientists",
+      "profession": "Model",
+      "nationality": "Venezuelan",
+      "bio": "Zion Scott is a Venezuelan model.",
+      "zodiacSign": "Taurus ♉",
+      "socialMedia": {
+        "instagram": "zionscott"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sam-gonzalez-83",
+      "name": "Sam Gonzalez",
+      "birthDate": "1958-01-18",
+      "category": "scientists",
+      "profession": "Model",
+      "nationality": "Turkish",
+      "bio": "Sam Gonzalez is a Turkish model.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "samgonzalez"
+      },
+      "achievements": [
+        "Model of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "diana-hall-84",
+      "name": "Diana Hall",
+      "birthDate": "2000-04-05",
+      "category": "scientists",
+      "profession": "Artist",
+      "nationality": "Argentinian",
+      "bio": "Diana Hall is a Argentinian artist.",
+      "zodiacSign": "Aries ♈",
+      "socialMedia": {
+        "instagram": "dianahall"
+      },
+      "achievements": [
+        "Artist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-thomas-85",
+      "name": "Emery Thomas",
+      "birthDate": "1966-02-05",
+      "category": "scientists",
+      "profession": "Musician",
+      "nationality": "New Zealander",
+      "bio": "Emery Thomas is a New Zealander musician.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "emerythomas"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "nina-peterson-86",
+      "name": "Nina Peterson",
+      "birthDate": "1967-03-20",
+      "category": "scientists",
+      "profession": "Streamer",
+      "nationality": "Serbian",
+      "bio": "Nina Peterson is a Serbian streamer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "ninapeterson"
+      },
+      "achievements": [
+        "Streamer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "jamie-cruz-87",
+      "name": "Jamie Cruz",
+      "birthDate": "1966-09-07",
+      "category": "scientists",
+      "profession": "Runner",
+      "nationality": "Indian",
+      "bio": "Jamie Cruz is a Indian runner.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "jamiecruz"
+      },
+      "achievements": [
+        "Runner of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "beth-walker-88",
+      "name": "Beth Walker",
+      "birthDate": "1958-10-15",
+      "category": "scientists",
+      "profession": "Activist",
+      "nationality": "South African",
+      "bio": "Beth Walker is a South African activist.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "bethwalker"
+      },
+      "achievements": [
+        "Activist of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "reese-robinson-89",
+      "name": "Reese Robinson",
+      "birthDate": "1959-12-02",
+      "category": "scientists",
+      "profession": "Basketball Player",
+      "nationality": "Swedish",
+      "bio": "Reese Robinson is a Swedish basketball player.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "reeserobinson"
+      },
+      "achievements": [
+        "Basketball Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-nguyen-90",
+      "name": "Emery Nguyen",
+      "birthDate": "1993-01-31",
+      "category": "scientists",
+      "profession": "Photographer",
+      "nationality": "Argentinian",
+      "bio": "Emery Nguyen is a Argentinian photographer.",
+      "zodiacSign": "Aquarius ♒",
+      "socialMedia": {
+        "instagram": "emerynguyen"
+      },
+      "achievements": [
+        "Photographer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "lily-rivera-91",
+      "name": "Lily Rivera",
+      "birthDate": "1951-11-18",
+      "category": "scientists",
+      "profession": "Researcher",
+      "nationality": "Norwegian",
+      "bio": "Lily Rivera is a Norwegian researcher.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "lilyrivera"
+      },
+      "achievements": [
+        "Researcher of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-edwards-92",
+      "name": "Sage Edwards",
+      "birthDate": "1984-09-30",
+      "category": "scientists",
+      "profession": "CEO",
+      "nationality": "Venezuelan",
+      "bio": "Sage Edwards is a Venezuelan ceo.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "sageedwards"
+      },
+      "achievements": [
+        "CEO of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "kai-jackson-93",
+      "name": "Kai Jackson",
+      "birthDate": "1951-12-18",
+      "category": "scientists",
+      "profession": "Author",
+      "nationality": "Scottish",
+      "bio": "Kai Jackson is a Scottish author.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "kaijackson"
+      },
+      "achievements": [
+        "Author of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "finley-baker-94",
+      "name": "Finley Baker",
+      "birthDate": "2001-08-14",
+      "category": "scientists",
+      "profession": "Politician",
+      "nationality": "Brazilian",
+      "bio": "Finley Baker is a Brazilian politician.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "finleybaker"
+      },
+      "achievements": [
+        "Politician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "bailey-smith-95",
+      "name": "Bailey Smith",
+      "birthDate": "2000-08-02",
+      "category": "scientists",
+      "profession": "Actress",
+      "nationality": "Swedish",
+      "bio": "Bailey Smith is a Swedish actress.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "baileysmith"
+      },
+      "achievements": [
+        "Actress of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "hunter-lopez-96",
+      "name": "Hunter Lopez",
+      "birthDate": "1963-09-21",
+      "category": "scientists",
+      "profession": "Tennis Player",
+      "nationality": "Australian",
+      "bio": "Hunter Lopez is a Australian tennis player.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "hunterlopez"
+      },
+      "achievements": [
+        "Tennis Player of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "emery-anderson-97",
+      "name": "Emery Anderson",
+      "birthDate": "1968-06-23",
+      "category": "scientists",
+      "profession": "Influencer",
+      "nationality": "Serbian",
+      "bio": "Emery Anderson is a Serbian influencer.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "emeryanderson"
+      },
+      "achievements": [
+        "Influencer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "sage-adams-98",
+      "name": "Sage Adams",
+      "birthDate": "2001-07-17",
+      "category": "scientists",
+      "profession": "Investor",
+      "nationality": "American",
+      "bio": "Sage Adams is a American investor.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "sageadams"
+      },
+      "achievements": [
+        "Investor of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "yuki-howard-99",
+      "name": "Yuki Howard",
+      "birthDate": "1991-07-23",
+      "category": "scientists",
+      "profession": "Dancer",
+      "nationality": "Serbian",
+      "bio": "Yuki Howard is a Serbian dancer.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "yukihoward"
+      },
+      "achievements": [
+        "Dancer of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "ulysses-davis-100",
+      "name": "Ulysses Davis",
+      "birthDate": "1981-11-17",
+      "category": "scientists",
+      "profession": "Musician",
+      "nationality": "Czech",
+      "bio": "Ulysses Davis is a Czech musician.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "ulyssesdavis"
+      },
+      "achievements": [
+        "Musician of the Year"
+      ],
+      "isActive": true
+    },
+    {
+      "id": "c.v.-raman-indian-1",
+      "name": "C.V. Raman",
+      "birthDate": "1888-11-07",
+      "category": "scientists",
+      "profession": "Physicist",
+      "nationality": "Indian",
+      "bio": "Nobel Prize-winning physicist known for the Raman Effect.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "c.v.raman",
+        "twitter": "c.v.raman",
+        "youtube": "c.v.raman"
+      },
+      "achievements": [
+        "Physicist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "homi-bhabha-indian-2",
+      "name": "Homi Bhabha",
+      "birthDate": "1909-10-30",
+      "category": "scientists",
+      "profession": "Nuclear Physicist",
+      "nationality": "Indian",
+      "bio": "Father of Indian nuclear program and atomic energy.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "homibhabha",
+        "twitter": "homibhabha",
+        "youtube": "homibhabha"
+      },
+      "achievements": [
+        "Nuclear Physicist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "a.p.j.-abdul-kalam-indian-3",
+      "name": "A.P.J. Abdul Kalam",
+      "birthDate": "1931-10-15",
+      "category": "scientists",
+      "profession": "Aerospace Scientist",
+      "nationality": "Indian",
+      "bio": "Former President of India and 'Missile Man of India'.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "a.p.j.abdulkalam",
+        "twitter": "a.p.j.abdulkalam",
+        "youtube": "a.p.j.abdulkalam"
+      },
+      "achievements": [
+        "Aerospace Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "vikram-sarabhai-indian-4",
+      "name": "Vikram Sarabhai",
+      "birthDate": "1919-08-12",
+      "category": "scientists",
+      "profession": "Space Scientist",
+      "nationality": "Indian",
+      "bio": "Father of Indian space program and ISRO founder.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "vikramsarabhai",
+        "twitter": "vikramsarabhai",
+        "youtube": "vikramsarabhai"
+      },
+      "achievements": [
+        "Space Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "satyendra-nath-bose-indian-5",
+      "name": "Satyendra Nath Bose",
+      "birthDate": "1894-01-01",
+      "category": "scientists",
+      "profession": "Physicist",
+      "nationality": "Indian",
+      "bio": "Theoretical physicist known for Bose-Einstein statistics.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "satyendranathbose",
+        "twitter": "satyendranathbose",
+        "youtube": "satyendranathbose"
+      },
+      "achievements": [
+        "Physicist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "jagadish-chandra-bose-indian-6",
+      "name": "Jagadish Chandra Bose",
+      "birthDate": "1858-11-30",
+      "category": "scientists",
+      "profession": "Physicist",
+      "nationality": "Indian",
+      "bio": "Pioneer in radio and microwave optics research.",
+      "zodiacSign": "Sagittarius ♐",
+      "socialMedia": {
+        "instagram": "jagadishchandrabose",
+        "twitter": "jagadishchandrabose",
+        "youtube": "jagadishchandrabose"
+      },
+      "achievements": [
+        "Physicist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "srinivasa-ramanujan-indian-7",
+      "name": "Srinivasa Ramanujan",
+      "birthDate": "1887-12-22",
+      "category": "scientists",
+      "profession": "Mathematician",
+      "nationality": "Indian",
+      "bio": "Self-taught mathematical genius and number theorist.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "srinivasaramanujan",
+        "twitter": "srinivasaramanujan",
+        "youtube": "srinivasaramanujan"
+      },
+      "achievements": [
+        "Mathematician of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "har-gobind-khorana-indian-8",
+      "name": "Har Gobind Khorana",
+      "birthDate": "1922-01-09",
+      "category": "scientists",
+      "profession": "Biochemist",
+      "nationality": "Indian",
+      "bio": "Nobel Prize-winning biochemist for genetic code research.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "hargobindkhorana",
+        "twitter": "hargobindkhorana",
+        "youtube": "hargobindkhorana"
+      },
+      "achievements": [
+        "Biochemist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-indian-9",
+      "name": "Subrahmanyan Chandrasekhar",
+      "birthDate": "1910-10-19",
+      "category": "scientists",
+      "profession": "Astrophysicist",
+      "nationality": "Indian",
+      "bio": "Nobel Prize-winning astrophysicist known for stellar evolution.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "subrahmanyanchandrasekhar",
+        "twitter": "subrahmanyanchandrasekhar",
+        "youtube": "subrahmanyanchandrasekhar"
+      },
+      "achievements": [
+        "Astrophysicist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "venkatraman-ramakrishnan-indian-10",
+      "name": "Venkatraman Ramakrishnan",
+      "birthDate": "1952-01-01",
+      "category": "scientists",
+      "profession": "Structural Biologist",
+      "nationality": "Indian",
+      "bio": "Nobel Prize-winning structural biologist for ribosome research.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "venkatramanramakrishnan",
+        "twitter": "venkatramanramakrishnan",
+        "youtube": "venkatramanramakrishnan"
+      },
+      "achievements": [
+        "Structural Biologist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "k.-radhakrishnan-indian-11",
+      "name": "K. Radhakrishnan",
+      "birthDate": "1949-08-29",
+      "category": "scientists",
+      "profession": "Space Scientist",
+      "nationality": "Indian",
+      "bio": "Former chairman of ISRO and Mars mission leader.",
+      "zodiacSign": "Virgo ♍",
+      "socialMedia": {
+        "instagram": "k.radhakrishnan",
+        "twitter": "k.radhakrishnan",
+        "youtube": "k.radhakrishnan"
+      },
+      "achievements": [
+        "Space Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "g.-madhavan-nair-indian-12",
+      "name": "G. Madhavan Nair",
+      "birthDate": "1943-10-31",
+      "category": "scientists",
+      "profession": "Space Scientist",
+      "nationality": "Indian",
+      "bio": "Former chairman of ISRO and space technology pioneer.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "g.madhavannair",
+        "twitter": "g.madhavannair",
+        "youtube": "g.madhavannair"
+      },
+      "achievements": [
+        "Space Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "roddam-narasimha-indian-13",
+      "name": "Roddam Narasimha",
+      "birthDate": "1933-07-20",
+      "category": "scientists",
+      "profession": "Aerospace Engineer",
+      "nationality": "Indian",
+      "bio": "Renowned aerospace engineer and fluid dynamics expert.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "roddamnarasimha",
+        "twitter": "roddamnarasimha",
+        "youtube": "roddamnarasimha"
+      },
+      "achievements": [
+        "Aerospace Engineer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "c.n.r.-rao-indian-14",
+      "name": "C.N.R. Rao",
+      "birthDate": "1934-06-30",
+      "category": "scientists",
+      "profession": "Chemist",
+      "nationality": "Indian",
+      "bio": "Renowned chemist and materials scientist.",
+      "zodiacSign": "Cancer ♋",
+      "socialMedia": {
+        "instagram": "c.n.r.rao",
+        "twitter": "c.n.r.rao",
+        "youtube": "c.n.r.rao"
+      },
+      "achievements": [
+        "Chemist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "m.s.-swaminathan-indian-15",
+      "name": "M.S. Swaminathan",
+      "birthDate": "1925-08-07",
+      "category": "scientists",
+      "profession": "Agricultural Scientist",
+      "nationality": "Indian",
+      "bio": "Father of Green Revolution in India.",
+      "zodiacSign": "Leo ♌",
+      "socialMedia": {
+        "instagram": "m.s.swaminathan",
+        "twitter": "m.s.swaminathan",
+        "youtube": "m.s.swaminathan"
+      },
+      "achievements": [
+        "Agricultural Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "raghunath-mashelkar-indian-16",
+      "name": "Raghunath Mashelkar",
+      "birthDate": "1943-01-01",
+      "category": "scientists",
+      "profession": "Chemical Engineer",
+      "nationality": "Indian",
+      "bio": "Renowned chemical engineer and innovation leader.",
+      "zodiacSign": "Capricorn ♑",
+      "socialMedia": {
+        "instagram": "raghunathmashelkar",
+        "twitter": "raghunathmashelkar",
+        "youtube": "raghunathmashelkar"
+      },
+      "achievements": [
+        "Chemical Engineer of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "anil-kakodkar-indian-17",
+      "name": "Anil Kakodkar",
+      "birthDate": "1943-11-11",
+      "category": "scientists",
+      "profession": "Nuclear Scientist",
+      "nationality": "Indian",
+      "bio": "Former chairman of Atomic Energy Commission.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "anilkakodkar",
+        "twitter": "anilkakodkar",
+        "youtube": "anilkakodkar"
+      },
+      "achievements": [
+        "Nuclear Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "k.-kasturirangan-indian-18",
+      "name": "K. Kasturirangan",
+      "birthDate": "1940-10-24",
+      "category": "scientists",
+      "profession": "Space Scientist",
+      "nationality": "Indian",
+      "bio": "Former chairman of ISRO and space policy expert.",
+      "zodiacSign": "Scorpio ♏",
+      "socialMedia": {
+        "instagram": "k.kasturirangan",
+        "twitter": "k.kasturirangan",
+        "youtube": "k.kasturirangan"
+      },
+      "achievements": [
+        "Space Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "u.r.-rao-indian-19",
+      "name": "U.R. Rao",
+      "birthDate": "1932-03-10",
+      "category": "scientists",
+      "profession": "Space Scientist",
+      "nationality": "Indian",
+      "bio": "Former chairman of ISRO and satellite technology pioneer.",
+      "zodiacSign": "Pisces ♓",
+      "socialMedia": {
+        "instagram": "u.r.rao",
+        "twitter": "u.r.rao",
+        "youtube": "u.r.rao"
+      },
+      "achievements": [
+        "Space Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    },
+    {
+      "id": "vijay-p.-bhatkar-indian-20",
+      "name": "Vijay P. Bhatkar",
+      "birthDate": "1946-10-11",
+      "category": "scientists",
+      "profession": "Computer Scientist",
+      "nationality": "Indian",
+      "bio": "Computer scientist and supercomputer pioneer.",
+      "zodiacSign": "Libra ♎",
+      "socialMedia": {
+        "instagram": "vijayp.bhatkar",
+        "twitter": "vijayp.bhatkar",
+        "youtube": "vijayp.bhatkar"
+      },
+      "achievements": [
+        "Computer Scientist of the Year",
+        "National Recognition",
+        "Industry Leader"
+      ]
+    }
+  ],
+  "count": 120
+}
