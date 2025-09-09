@@ -1,0 +1,16 @@
+# ads.txt file for Age Calculator Website
+# This file must be accessible at https://yourdomain.com/ads.txt
+# Last updated: 2024-12-19
+
+# Google AdSense
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Replace pub-0000000000000000 with your actual AdSense Publisher ID
+
+# Google Ad Manager (if using)
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+# Additional authorized sellers (add as needed)
+# Example: amazon-adsystem.com, 1234567890, DIRECT, 3d544b3d8f2c3255
+
+# Note: This file is loaded only after user consent is obtained
+# to ensure compliance with privacy regulations

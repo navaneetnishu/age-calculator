@@ -6,6 +6,7 @@ import { CelebrityProfile } from '@/types/celebrity';
 import { getCelebrityById } from '@/utils/celebrityUtils';
 import { formatAge, calculateAge } from '@/utils/ageCalculator';
 import SocialMediaIcon from '@/components/SocialMediaIcon';
+import InlineAd from '@/components/InlineAd';
 
 export default function CelebrityProfilePage() {
   const params = useParams();
@@ -370,6 +371,9 @@ export default function CelebrityProfilePage() {
                 </span>
               </div>
             </div>
+
+            {/* Inline Ad */}
+            <InlineAd format="rectangle" />
           </div>
         </div>
       </div>

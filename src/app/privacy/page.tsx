@@ -1,6 +1,7 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import InlineAd from '@/components/InlineAd';
 
 export default function PrivacyPolicy() {
   const router = useRouter();
@@ -213,6 +214,9 @@ export default function PrivacyPolicy() {
               updated policy.
             </p>
           </div>
+
+          {/* Inline Ad */}
+          <InlineAd format="rectangle" />
 
           {/* Contact Information */}
           <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-6 border border-blue-200">

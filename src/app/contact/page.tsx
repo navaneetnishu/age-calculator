@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import InlineAd from '@/components/InlineAd';
 
 export default function ContactUs() {
   const router = useRouter();
@@ -235,6 +236,9 @@ export default function ContactUs() {
                 <strong>Note:</strong> All fields marked with * are required. We respect your privacy and will only use your information to respond to your inquiry.
               </p>
             </div>
+
+            {/* Inline Ad */}
+            <InlineAd format="rectangle" />
           </div>
         </div>
       </div>

@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next'
 import './globals.css'
+import ConsentManager from '@/components/ConsentManager'
 
 export const metadata: Metadata = {
   title: 'Age Calculator - Calculate Your Exact Age',
@@ -49,7 +50,9 @@ export default function RootLayout({
         <meta name="apple-mobile-web-app-title" content="Age Calculator" />
       </head>
       <body className="min-h-screen bg-gray-50">
-        {children}
+        <ConsentManager>
+          {children}
+        </ConsentManager>
       </body>
     </html>
   )

@@ -1,6 +1,7 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import InlineAd from '@/components/InlineAd';
 
 export default function Disclaimer() {
   const router = useRouter();
@@ -198,6 +199,9 @@ export default function Disclaimer() {
               <p><strong>Website:</strong> <button onClick={() => router.push('/contact')} className="text-blue-600 hover:underline">Contact Form</button></p>
             </div>
           </div>
+
+          {/* Inline Ad */}
+          <InlineAd format="rectangle" />
 
           {/* Final Note */}
           <div className="mt-8 p-6 bg-yellow-50 border border-yellow-200 rounded-xl">

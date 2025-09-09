@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import InlineAd from '@/components/InlineAd';
 
 export default function AboutUs() {
   const router = useRouter();
@@ -151,6 +152,9 @@ export default function AboutUs() {
               </div>
             </div>
           </div>
+
+          {/* Inline Ad */}
+          <InlineAd format="rectangle" />
 
           {/* Contact CTA */}
           <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-6 border border-blue-200">

@@ -4,6 +4,10 @@ import { useState, useEffect } from 'react';
 import dynamic from 'next/dynamic';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import AdSidebar from '@/components/AdSidebar';
+import InlineAd from '@/components/InlineAd';
+import ConsentStatus from '@/components/ConsentStatus';
+import AdsTxtLoader from '@/components/AdsTxtLoader';
 // Removed performance monitoring to fix startup issues
 
 // Optimized dynamic imports with better loading states
@@ -71,15 +75,37 @@ export default function Home() {
     <main className="min-h-screen bg-gray-50">
       <Navigation activeTab={activeTab} onTabChange={setActiveTab} />
       
-      {activeTab === 'calculator' ? (
-        <AgeCalculator />
-      ) : (
-        <div id="celebrities">
-          <CelebritySection />
+      <div className="flex">
+        {/* Main Content */}
+        <div className="flex-1">
+          {activeTab === 'calculator' ? (
+            <div>
+              <AgeCalculator />
+              {/* Inline ad between calculator and footer */}
+              <InlineAd format="rectangle" />
+            </div>
+          ) : (
+            <div id="celebrities">
+              <CelebritySection />
+              {/* Inline ad between celebrities and footer */}
+              <InlineAd format="horizontal" />
+            </div>
+          )}
         </div>
-      )}
+        
+        {/* Right Sidebar with Ads - Hidden on mobile */}
+        <div className="hidden lg:block w-64 p-4">
+          <AdSidebar />
+        </div>
+      </div>
       
-                      <Footer />
+      <Footer />
+      
+      {/* Consent Status Debug Component - Only visible in development */}
+      <ConsentStatus />
+      
+      {/* Ads.txt Loader Debug Component - Only visible in development */}
+      <AdsTxtLoader className="debug" />
     </main>
   );
 }
